@@ -1,5 +1,42 @@
-console.time("A");
 import angles from './angles.js';
+
+if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  document.body.classList.add("mobile");  // If is mobile user, add mobile class to body.
+
+// Start-up message fade timings
+const message_div = document.getElementById("message");
+setTimeout(() => {
+  message_div.classList.add("fade-out");
+  message_div.classList.remove("fade-in");
+
+  setTimeout(() => {
+    message_div.innerHTML = "Initialising...";
+    message_div.classList.add("fade-in");
+    message_div.classList.remove("fade-out");
+
+    setTimeout(() => {
+      message_div.classList.add("fade-out");
+      message_div.classList.remove("fade-in");
+    }, 600);
+  }, 400);
+}, 800);
+
+
+/* Setup Angle Processor */
+// Callback method updates GUI with results
+const onResults = (results) => {
+  for(let joint in results) {
+    joint_cells[joint].setProgress( results[joint] );
+  }
+}
+// Create new angle processor, provide the callback, and the size of the noise filter buffer (running median).
+const AnglesProcessor = new angles.JointsProcessor(onResults, 4);
+
+
+/* Initialise GUI */
+const grid = document.getElementById("grid-space");
+const cell_tmplt = document.getElementById("cell-template");
+const joint_cells = {};
 
 const FADE_IN_TIMES = {
   "MJ2": 4800+100,
@@ -19,40 +56,7 @@ const FADE_IN_TIMES = {
   "PJ1": 4800+400
 };
 
-const message_div = document.getElementById("message");
-console.timeEnd("A");
-setTimeout(() => {
-  message_div.classList.add("fade-out");
-  message_div.classList.remove("fade-in");
-
-  setTimeout(() => {
-    message_div.innerHTML = "Initialising...";
-    message_div.classList.add("fade-in");
-    message_div.classList.remove("fade-out");
-
-    setTimeout(() => {
-      message_div.classList.add("fade-out");
-      message_div.classList.remove("fade-in");
-    }, 800);
-  }, 400);
-}, 800);
-
-
-
-const onResults = (results) => {
-  for(let joint in results) {
-    joint_cells[joint].setProgress( results[joint] );
-  }
-}
-const AnglesProcessor = new angles.JointsProcessor(onResults, 4);
-
-
-
-// Initialise GUI
-const grid = document.getElementById("grid-space");
-const cell_tmplt = document.getElementById("cell-template");
-const joint_cells = {};
-
+// Create elements from template for each joint, and connect with callback for updating progress bar value.
 for(let joint in angles.JOINTS) {
   joint_cells[joint] = { cell: document.importNode(cell_tmplt.content, true).querySelectorAll(".cell")[0] };
   joint_cells[joint].circle = joint_cells[joint].cell.querySelector('circle');
@@ -70,6 +74,7 @@ for(let joint in angles.JOINTS) {
     
   joint_cells[joint].title.innerHTML = angles.JOINTS[joint].text;
 
+  // Initialise high and animate low. Visual sugar only - not necessary.
   joint_cells[joint].setProgress(275);
   setTimeout(() => joint_cells[joint].setProgress(0), 5600);
 

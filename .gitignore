@@ -1,1 +1,10 @@
 server.py
+
+# C:\Users\benbu/.ssh/id_rsa_github
+# ssh-add C:\Users\benbu/.ssh/id_rsa_github
+# Get-Content C:\Users\benbu/.ssh/id_rsa_github.pub
+# git remote set-url origin git@github.com:Burke111-DEV/uk.co.benmartinburke.examples.git
+
+
+# git remote set-url origin git@github.com:Burke111-DEV/uk.co.benmartinburke.examples.git
+# git push origin main

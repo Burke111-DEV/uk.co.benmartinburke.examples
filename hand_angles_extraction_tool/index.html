@@ -1,29 +1,26 @@
 <html>
     <head>
         <title>Hand Angles Extraction Tool</title>
-
         <link rel="stylesheet" type="text/css" href="./style.css"  />        
     </head>
 
-    <body>
+    <body id="body">
         <div id="message" class="fade-in">Loading files...</div>
 
-        <div id="grid-space">          
-        </div>
-
+        <div id="grid-space"></div>
 
         <!-- Mediapipe -->
         <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands@0.4/hands.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands@0.4/hands.js" crossorigin="anonymous"></script>
+        
+        <!-- JS -->
         <script type="module" src="./app.js" ></script>
     </body>
 
     <template id="cell-template">
         <div class="cell">
             <div class="progbox">
-                <div class="cell-title">
-
-                </div>
+                <div class="cell-title"></div>
                 <svg
                     class="progress-ring"
                     width="120"
@@ -37,10 +34,7 @@
                         cx="60"
                         cy="60"/>
                 </svg>
-
-                <div class="prog-text">
-                    0°
-                </div>
+                <div class="prog-text">0°</div>
             </div>
        </div>
     </template>
