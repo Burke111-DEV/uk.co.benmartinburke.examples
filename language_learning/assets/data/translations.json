@@ -1,0 +1,2587 @@
+{
+    "come": [
+        "venire"
+    ],
+    "get": [
+        "ottenere"
+    ],
+    "give": [
+        "dare"
+    ],
+    "go": [
+        "andare"
+    ],
+    "keep": [
+        "conservare"
+    ],
+    "let": [
+        "affittare"
+    ],
+    "make": [
+        "fare"
+    ],
+    "put": [
+        "mettere"
+    ],
+    "seem": [
+        "parere"
+    ],
+    "take": [
+        "prendere"
+    ],
+    "be": [
+        "essere"
+    ],
+    "do": [
+        "fare"
+    ],
+    "have": [
+        "avere"
+    ],
+    "say": [
+        "dire"
+    ],
+    "see": [
+        "vedere"
+    ],
+    "send": [
+        "mandare"
+    ],
+    "may": [
+        "possa"
+    ],
+    "will": [
+        "volont\u00e0"
+    ],
+    "about": [
+        "di",
+        "circa"
+    ],
+    "across": [
+        "attraverso"
+    ],
+    "after": [
+        "dopo"
+    ],
+    "against": [
+        "contro"
+    ],
+    "among": [
+        "tra"
+    ],
+    "at": [
+        "su",
+        "in"
+    ],
+    "before": [
+        "prima"
+    ],
+    "between": [
+        "fra"
+    ],
+    "by": [
+        "mediante"
+    ],
+    "down": [
+        "in basso"
+    ],
+    "from": [
+        "di"
+    ],
+    "in": [
+        "dentro",
+        "in"
+    ],
+    "off": [
+        "spento"
+    ],
+    "on": [
+        "su"
+    ],
+    "over": [
+        "sopra"
+    ],
+    "through": [
+        "attraverso"
+    ],
+    "to": [
+        "a"
+    ],
+    "under": [
+        "sotto"
+    ],
+    "up": [
+        "su"
+    ],
+    "with": [
+        "insieme_a"
+    ],
+    "as": [
+        "come"
+    ],
+    "for": [
+        "per"
+    ],
+    "of": [
+        "di"
+    ],
+    "till": [
+        "fino"
+    ],
+    "than": [
+        "che",
+        "di"
+    ],
+    "a": [
+        "un",
+        "una"
+    ],
+    "the": [
+        "la",
+        "il"
+    ],
+    "all": [
+        "tutto"
+    ],
+    "any": [
+        "qualunque"
+    ],
+    "every": [
+        "ogni"
+    ],
+    "little": [
+        "piccolo"
+    ],
+    "much": [
+        "molto"
+    ],
+    "no": [
+        "non"
+    ],
+    "other": [
+        "altro"
+    ],
+    "some": [
+        "alcuni"
+    ],
+    "such": [
+        "cos\u00ec"
+    ],
+    "that": [
+        "che"
+    ],
+    "this": [
+        "questo"
+    ],
+    "I": [
+        "io"
+    ],
+    "he": [
+        "lui"
+    ],
+    "you": [
+        "voi"
+    ],
+    "who": [
+        "chi"
+    ],
+    "and": [
+        "e"
+    ],
+    "because": [
+        "perche"
+    ],
+    "but": [
+        "ma"
+    ],
+    "or": [
+        "o"
+    ],
+    "if": [
+        "se"
+    ],
+    "though": [
+        "sebbene",
+        "benche"
+    ],
+    "while": [
+        "durante",
+        "mentre"
+    ],
+    "how": [
+        "come"
+    ],
+    "when": [
+        "quando"
+    ],
+    "where": [
+        "dove"
+    ],
+    "why": [
+        "perch\u00c3\u00a9"
+    ],
+    "again": [
+        "ancora"
+    ],
+    "ever": [
+        "sempre"
+    ],
+    "far": [
+        "lontana",
+        "lontano"
+    ],
+    "forward": [
+        "inoltrare"
+    ],
+    "here": [
+        "qui",
+        "qua"
+    ],
+    "near": [
+        "vicino"
+    ],
+    "now": [
+        "adesso"
+    ],
+    "out": [
+        "fuori"
+    ],
+    "still": [
+        "ancora"
+    ],
+    "then": [
+        "allora",
+        "poi"
+    ],
+    "there": [
+        "la",
+        "li"
+    ],
+    "together": [
+        "insieme"
+    ],
+    "well": [
+        "bene"
+    ],
+    "almost": [
+        "quasi"
+    ],
+    "enough": [
+        "sufficiente"
+    ],
+    "even": [
+        "perfino"
+    ],
+    "not": [
+        "no"
+    ],
+    "only": [
+        "sola",
+        "solo"
+    ],
+    "quite": [
+        "abbastanza"
+    ],
+    "so": [
+        "cos\u00ec"
+    ],
+    "very": [
+        "molta",
+        "molto"
+    ],
+    "tomorrow": [
+        "domani"
+    ],
+    "yesterday": [
+        "ieri"
+    ],
+    "north": [
+        "nord"
+    ],
+    "south": [
+        "sud"
+    ],
+    "east": [
+        "est"
+    ],
+    "west": [
+        "ovest"
+    ],
+    "please": [
+        "piacere"
+    ],
+    "yes": [
+        "s\u00ec"
+    ],
+    "account": [
+        "account"
+    ],
+    "act": [
+        "atto"
+    ],
+    "addition": [
+        "aggiunta"
+    ],
+    "adjustment": [
+        "accomodamento"
+    ],
+    "advertisement": [
+        "annuncio pubblicitario"
+    ],
+    "agreement": [
+        "accordo"
+    ],
+    "air": [
+        "aria"
+    ],
+    "amount": [
+        "Quantit\u00c3\u00a0"
+    ],
+    "amusement": [
+        "divertimento"
+    ],
+    "animal": [
+        "animale"
+    ],
+    "answer": [
+        "Rispondere"
+    ],
+    "apparatus": [
+        "apparecchio"
+    ],
+    "approval": [
+        "approvazione"
+    ],
+    "argument": [
+        "argomento"
+    ],
+    "art": [
+        "arte"
+    ],
+    "attack": [
+        "attacco"
+    ],
+    "attempt": [
+        "provare"
+    ],
+    "attention": [
+        "attenzione"
+    ],
+    "attraction": [
+        "forza"
+    ],
+    "authority": [
+        "autorit\u00e0"
+    ],
+    "back": [
+        "dorso"
+    ],
+    "balance": [
+        "equilibrio"
+    ],
+    "base": [
+        "base"
+    ],
+    "behavior": [
+        "condotta"
+    ],
+    "belief": [
+        "credenza"
+    ],
+    "birth": [
+        "nascita"
+    ],
+    "bit": [
+        "pezzo"
+    ],
+    "bite": [
+        "mordere"
+    ],
+    "blood": [
+        "sangue"
+    ],
+    "blow": [
+        "soffio"
+    ],
+    "body": [
+        "corpo"
+    ],
+    "brass": [
+        "ottone"
+    ],
+    "bread": [
+        "pane"
+    ],
+    "breath": [
+        "alito"
+    ],
+    "brother": [
+        "fratello"
+    ],
+    "building": [
+        "edificio"
+    ],
+    "burn": [
+        "bruciare"
+    ],
+    "burst": [
+        "scoppiare"
+    ],
+    "business": [
+        "affare"
+    ],
+    "butter": [
+        "burro"
+    ],
+    "canvas": [
+        "tela"
+    ],
+    "care": [
+        "cura"
+    ],
+    "cause": [
+        "causa"
+    ],
+    "chalk": [
+        "creta"
+    ],
+    "chance": [
+        "caso"
+    ],
+    "change": [
+        "modificare"
+    ],
+    "cloth": [
+        "stoffa"
+    ],
+    "coal": [
+        "carbone"
+    ],
+    "color": [
+        "colore"
+    ],
+    "comfort": [
+        "consolare"
+    ],
+    "committee": [
+        "comitato"
+    ],
+    "company": [
+        "compagnia"
+    ],
+    "comparison": [
+        "confronto"
+    ],
+    "competition": [
+        "concorrenza"
+    ],
+    "condition": [
+        "condizione"
+    ],
+    "connection": [
+        "connessione"
+    ],
+    "control": [
+        "controllo"
+    ],
+    "cook": [
+        "cuoca"
+    ],
+    "copper": [
+        "rame"
+    ],
+    "copy": [
+        "copiare"
+    ],
+    "cork": [
+        "sughero"
+    ],
+    "cotton": [
+        "cotone"
+    ],
+    "cough": [
+        "tossire"
+    ],
+    "country": [
+        "nazione"
+    ],
+    "cover": [
+        "copertina"
+    ],
+    "crack": [
+        "crepa"
+    ],
+    "credit": [
+        "credito"
+    ],
+    "crime": [
+        "delitto"
+    ],
+    "crush": [
+        "schiacciare"
+    ],
+    "cry": [
+        "gridare"
+    ],
+    "current": [
+        "attuale"
+    ],
+    "curve": [
+        "curva"
+    ],
+    "damage": [
+        "danno"
+    ],
+    "danger": [
+        "pericolo"
+    ],
+    "daughter": [
+        "figlia"
+    ],
+    "day": [
+        "giorno"
+    ],
+    "death": [
+        "morte"
+    ],
+    "debt": [
+        "debito"
+    ],
+    "decision": [
+        "decisione"
+    ],
+    "degree": [
+        "grado"
+    ],
+    "design": [
+        "progetto"
+    ],
+    "desire": [
+        "desiderio"
+    ],
+    "destruction": [
+        "distruzione"
+    ],
+    "detail": [
+        "dettaglio"
+    ],
+    "development": [
+        "sviluppo"
+    ],
+    "digestion": [
+        "digestione"
+    ],
+    "direction": [
+        "direzione"
+    ],
+    "discovery": [
+        "scoperta"
+    ],
+    "discussion": [
+        "discussione"
+    ],
+    "disease": [
+        "patologia"
+    ],
+    "disgust": [
+        "disgusto"
+    ],
+    "distance": [
+        "distanza"
+    ],
+    "distribution": [
+        "distribuzione"
+    ],
+    "division": [
+        "divisione"
+    ],
+    "doubt": [
+        "dubitare"
+    ],
+    "drink": [
+        "bere"
+    ],
+    "driving": [
+        "guida"
+    ],
+    "dust": [
+        "polvere"
+    ],
+    "earth": [
+        "terra"
+    ],
+    "edge": [
+        "orlo"
+    ],
+    "education": [
+        "formazione scolastica"
+    ],
+    "effect": [
+        "risultato"
+    ],
+    "end": [
+        "fine"
+    ],
+    "error": [
+        "errore"
+    ],
+    "event": [
+        "evento"
+    ],
+    "example": [
+        "esempio"
+    ],
+    "exchange": [
+        "scambio"
+    ],
+    "existence": [
+        "esistenza"
+    ],
+    "expansion": [
+        "espansione"
+    ],
+    "experience": [
+        "Esperienza"
+    ],
+    "expert": [
+        "esperto"
+    ],
+    "fact": [
+        "fatto"
+    ],
+    "fall": [
+        "diminuire"
+    ],
+    "family": [
+        "famiglia"
+    ],
+    "father": [
+        "padre"
+    ],
+    "fear": [
+        "paura"
+    ],
+    "feeling": [
+        "sensazione"
+    ],
+    "fiction": [
+        "finzione"
+    ],
+    "field": [
+        "campo"
+    ],
+    "fight": [
+        "combattere"
+    ],
+    "fire": [
+        "fuoco"
+    ],
+    "flame": [
+        "fiamma"
+    ],
+    "flight": [
+        "fuga"
+    ],
+    "flower": [
+        "fiore"
+    ],
+    "fold": [
+        "piegare"
+    ],
+    "food": [
+        "cibo"
+    ],
+    "force": [
+        "forza"
+    ],
+    "form": [
+        "modulo"
+    ],
+    "friend": [
+        "amico"
+    ],
+    "front": [
+        "davanti"
+    ],
+    "fruit": [
+        "frutta"
+    ],
+    "glass": [
+        "bicchiere"
+    ],
+    "gold": [
+        "oro"
+    ],
+    "government": [
+        "governo"
+    ],
+    "grain": [
+        "grano"
+    ],
+    "grass": [
+        "erba"
+    ],
+    "grip": [
+        "afferrare"
+    ],
+    "group": [
+        "gruppo"
+    ],
+    "growth": [
+        "crescimento"
+    ],
+    "guide": [
+        "guida"
+    ],
+    "harbor": [
+        "porto"
+    ],
+    "harmony": [
+        "accordo"
+    ],
+    "hate": [
+        "odiare"
+    ],
+    "hearing": [
+        "udito"
+    ],
+    "heat": [
+        "calore"
+    ],
+    "help": [
+        "aiuto"
+    ],
+    "history": [
+        "storia"
+    ],
+    "hole": [
+        "buco"
+    ],
+    "hope": [
+        "speranza"
+    ],
+    "hour": [
+        "ora"
+    ],
+    "humor": [
+        "umorismo"
+    ],
+    "ice": [
+        "ghiaccio"
+    ],
+    "idea": [
+        "idea"
+    ],
+    "impulse": [
+        "impulso"
+    ],
+    "increase": [
+        "ingrandire"
+    ],
+    "industry": [
+        "industria"
+    ],
+    "ink": [
+        "inchiostro"
+    ],
+    "insect": [
+        "insetto"
+    ],
+    "instrument": [
+        "strumento"
+    ],
+    "insurance": [
+        "assicurazione"
+    ],
+    "interest": [
+        "interesse"
+    ],
+    "invention": [
+        "invenzione"
+    ],
+    "iron": [
+        "ferro"
+    ],
+    "jelly": [
+        "gelatina"
+    ],
+    "join": [
+        "partecipare"
+    ],
+    "journey": [
+        "viaggio"
+    ],
+    "judge": [
+        "giudice"
+    ],
+    "jump": [
+        "salto"
+    ],
+    "kick": [
+        "calcio"
+    ],
+    "kiss": [
+        "bacio"
+    ],
+    "knowledge": [
+        "conoscenza"
+    ],
+    "land": [
+        "sbarcare"
+    ],
+    "language": [
+        "lingua"
+    ],
+    "laugh": [
+        "ridere"
+    ],
+    "law": [
+        "legge"
+    ],
+    "lead": [
+        "piombo"
+    ],
+    "learning": [
+        "apprendimento"
+    ],
+    "leather": [
+        "cuoio"
+    ],
+    "letter": [
+        "lettera"
+    ],
+    "level": [
+        "livello"
+    ],
+    "lift": [
+        "sollevare"
+    ],
+    "light": [
+        "leggero"
+    ],
+    "limit": [
+        "limite"
+    ],
+    "linen": [
+        "biancheria"
+    ],
+    "liquid": [
+        "liquido"
+    ],
+    "list": [
+        "lista"
+    ],
+    "look": [
+        "Guarda"
+    ],
+    "loss": [
+        "perdita"
+    ],
+    "love": [
+        "amore"
+    ],
+    "machine": [
+        "macchina"
+    ],
+    "man": [
+        "uomo"
+    ],
+    "manager": [
+        "gestore"
+    ],
+    "mark": [
+        "segno"
+    ],
+    "market": [
+        "mercato"
+    ],
+    "mass": [
+        "messa"
+    ],
+    "meal": [
+        "fiore"
+    ],
+    "measure": [
+        "misurare"
+    ],
+    "meat": [
+        "carne"
+    ],
+    "meeting": [
+        "convegno"
+    ],
+    "memory": [
+        "memoria"
+    ],
+    "metal": [
+        "metallo"
+    ],
+    "middle": [
+        "mezzo"
+    ],
+    "milk": [
+        "latte"
+    ],
+    "mind": [
+        "osservare"
+    ],
+    "mine": [
+        "il mio"
+    ],
+    "minute": [
+        "minuto"
+    ],
+    "mist": [
+        "nebbia"
+    ],
+    "money": [
+        "i soldi"
+    ],
+    "month": [
+        "mese"
+    ],
+    "morning ,mother": [
+        "buongiorno, mamma"
+    ],
+    "motion": [
+        "movimento"
+    ],
+    "mountain": [
+        "montagna"
+    ],
+    "move": [
+        "spostare"
+    ],
+    "music": [
+        "musica"
+    ],
+    "name": [
+        "nome"
+    ],
+    "nation": [
+        "popolo"
+    ],
+    "need": [
+        "bisogno"
+    ],
+    "news": [
+        "notizia"
+    ],
+    "night": [
+        "notte"
+    ],
+    "noise": [
+        "rumore"
+    ],
+    "note": [
+        "biglietto"
+    ],
+    "number": [
+        "numero"
+    ],
+    "observation": [
+        "osservazione"
+    ],
+    "offer": [
+        "offerta"
+    ],
+    "oil": [
+        "olio"
+    ],
+    "operation": [
+        "operazione"
+    ],
+    "opinion": [
+        "opinione"
+    ],
+    "order": [
+        "ordine"
+    ],
+    "organization": [
+        "organizzazione"
+    ],
+    "ornament": [
+        "decorare"
+    ],
+    "owner": [
+        "proprietario"
+    ],
+    "page": [
+        "pagina"
+    ],
+    "pain": [
+        "dolore"
+    ],
+    "paint": [
+        "dipingere"
+    ],
+    "paper": [
+        "carta"
+    ],
+    "part": [
+        "parte"
+    ],
+    "paste": [
+        "pasta"
+    ],
+    "payment": [
+        "pagamento"
+    ],
+    "peace": [
+        "pace"
+    ],
+    "person": [
+        "persona"
+    ],
+    "place": [
+        "luogo"
+    ],
+    "plant": [
+        "pianta"
+    ],
+    "play": [
+        "giocare a"
+    ],
+    "pleasure": [
+        "piacere"
+    ],
+    "point": [
+        "punto"
+    ],
+    "poison": [
+        "veleno"
+    ],
+    "polish": [
+        "polacco"
+    ],
+    "porter": [
+        "facchino"
+    ],
+    "position": [
+        "posizione"
+    ],
+    "powder": [
+        "polvere"
+    ],
+    "power": [
+        "potere"
+    ],
+    "price": [
+        "prezzo"
+    ],
+    "print": [
+        "stampare"
+    ],
+    "process": [
+        "processi"
+    ],
+    "produce": [
+        "produrre"
+    ],
+    "profit": [
+        "profitto"
+    ],
+    "property": [
+        "propriet\u00c3\u00a0"
+    ],
+    "prose": [
+        "prosa"
+    ],
+    "protest": [
+        "protesta"
+    ],
+    "pull": [
+        "tirare"
+    ],
+    "punishment": [
+        "punizione"
+    ],
+    "purpose": [
+        "scopo"
+    ],
+    "push": [
+        "spingere"
+    ],
+    "quality": [
+        "qualit\u00c3\u00a0"
+    ],
+    "question": [
+        "domanda"
+    ],
+    "rain": [
+        "piovere"
+    ],
+    "range": [
+        "allineare"
+    ],
+    "rate": [
+        "Vota"
+    ],
+    "ray": [
+        "sciopero"
+    ],
+    "reaction": [
+        "reazione"
+    ],
+    "reading": [
+        "lettura"
+    ],
+    "reason": [
+        "Motivo"
+    ],
+    "record": [
+        "disco"
+    ],
+    "regret": [
+        "rincrescere"
+    ],
+    "relation": [
+        "relazione"
+    ],
+    "religion": [
+        "religione"
+    ],
+    "representative": [
+        "rappresentante"
+    ],
+    "request": [
+        "chiedere"
+    ],
+    "respect": [
+        "rispetto"
+    ],
+    "rest": [
+        "riposo"
+    ],
+    "reward": [
+        "ricompensa"
+    ],
+    "rhythm": [
+        "ritmo"
+    ],
+    "rice": [
+        "riso"
+    ],
+    "river": [
+        "fiume"
+    ],
+    "road": [
+        "strada"
+    ],
+    "roll": [
+        "panino"
+    ],
+    "room": [
+        "camera"
+    ],
+    "rub": [
+        "strofinare"
+    ],
+    "rule": [
+        "regola"
+    ],
+    "run": [
+        "correre"
+    ],
+    "salt": [
+        "sale"
+    ],
+    "sand": [
+        "sabbia"
+    ],
+    "scale": [
+        "squama"
+    ],
+    "science": [
+        "scienza"
+    ],
+    "sea": [
+        "mare"
+    ],
+    "seat": [
+        "posto"
+    ],
+    "secretary": [
+        "segretario"
+    ],
+    "selection": [
+        "selezione"
+    ],
+    "self": [
+        "stesso"
+    ],
+    "sense": [
+        "senso"
+    ],
+    "servant": [
+        "servire"
+    ],
+    "sex": [
+        "sesso"
+    ],
+    "shade": [
+        "ombra"
+    ],
+    "shake": [
+        "scuotere"
+    ],
+    "shame": [
+        "vergogna"
+    ],
+    "shock": [
+        "shock"
+    ],
+    "side": [
+        "lato"
+    ],
+    "sign": [
+        "cartello"
+    ],
+    "silk": [
+        "seta"
+    ],
+    "silver": [
+        "argento"
+    ],
+    "sister": [
+        "sorella"
+    ],
+    "size": [
+        "grandezza"
+    ],
+    "sky": [
+        "cielo"
+    ],
+    "sleep": [
+        "dormire"
+    ],
+    "slip": [
+        "scontrino"
+    ],
+    "slope": [
+        "pendenza"
+    ],
+    "smash": [
+        "schiacciata"
+    ],
+    "smell": [
+        "sentire"
+    ],
+    "smile": [
+        "Sorridi"
+    ],
+    "smoke": [
+        "Fumo"
+    ],
+    "sneeze": [
+        "starnuto"
+    ],
+    "snow": [
+        "neve"
+    ],
+    "soap": [
+        "sapone"
+    ],
+    "society": [
+        "compagnia"
+    ],
+    "son": [
+        "figlio"
+    ],
+    "song": [
+        "canzone"
+    ],
+    "sort": [
+        "ordinare"
+    ],
+    "sound": [
+        "suono"
+    ],
+    "soup": [
+        "minestra"
+    ],
+    "space": [
+        "spazio"
+    ],
+    "stage": [
+        "palcoscenico"
+    ],
+    "start": [
+        "inizio"
+    ],
+    "statement": [
+        "dichiarazione"
+    ],
+    "steam": [
+        "vapore"
+    ],
+    "steel": [
+        "acciaio"
+    ],
+    "step": [
+        "passo"
+    ],
+    "stitch": [
+        "cucire"
+    ],
+    "stone": [
+        "pierra"
+    ],
+    "stop": [
+        "fermare"
+    ],
+    "story": [
+        "storia"
+    ],
+    "stretch": [
+        "stirata"
+    ],
+    "structure": [
+        "struttura"
+    ],
+    "substance": [
+        "sostanza"
+    ],
+    "sugar": [
+        "zucchero"
+    ],
+    "suggestion": [
+        "suggerimento"
+    ],
+    "summer": [
+        "estate"
+    ],
+    "support": [
+        "sostegno"
+    ],
+    "surprise": [
+        "sorpresa"
+    ],
+    "swim": [
+        "nuotare"
+    ],
+    "system": [
+        "sistema"
+    ],
+    "talk": [
+        "parlare"
+    ],
+    "taste": [
+        "gusto"
+    ],
+    "tax": [
+        "imposta"
+    ],
+    "teaching": [
+        "insegnamento"
+    ],
+    "tendency": [
+        "tendenza"
+    ],
+    "test": [
+        "test"
+    ],
+    "theory": [
+        "teoria"
+    ],
+    "thing": [
+        "cosa"
+    ],
+    "thought": [
+        "pensiero"
+    ],
+    "thunder": [
+        "tuono"
+    ],
+    "time": [
+        "tempo"
+    ],
+    "tin": [
+        "lattina"
+    ],
+    "top": [
+        "cima"
+    ],
+    "touch": [
+        "toccare"
+    ],
+    "trade": [
+        "commercio"
+    ],
+    "transport": [
+        "trasporto"
+    ],
+    "trick": [
+        "trucco"
+    ],
+    "trouble": [
+        "problemi"
+    ],
+    "turn": [
+        "giro"
+    ],
+    "twist": [
+        "intrecciare"
+    ],
+    "unit": [
+        "unit\u00c3\u00a0"
+    ],
+    "use": [
+        "utilizzo"
+    ],
+    "value": [
+        "valore"
+    ],
+    "verse": [
+        "versetto"
+    ],
+    "vessel": [
+        "nave"
+    ],
+    "view": [
+        "Visualizza"
+    ],
+    "voice": [
+        "voce"
+    ],
+    "walk": [
+        "camminare"
+    ],
+    "war": [
+        "guerra"
+    ],
+    "wash": [
+        "lavare"
+    ],
+    "waste": [
+        "rifiuto"
+    ],
+    "water": [
+        "acqua"
+    ],
+    "wave": [
+        "onda"
+    ],
+    "wax": [
+        "cera"
+    ],
+    "way": [
+        "modo"
+    ],
+    "weather": [
+        "tempo"
+    ],
+    "week": [
+        "settimana"
+    ],
+    "weight": [
+        "peso"
+    ],
+    "wind": [
+        "vento"
+    ],
+    "wine": [
+        "vino"
+    ],
+    "winter": [
+        "inverno"
+    ],
+    "woman": [
+        "donna"
+    ],
+    "wood": [
+        "legno"
+    ],
+    "wool": [
+        "lana vergine"
+    ],
+    "word": [
+        "parola"
+    ],
+    "work": [
+        "opera"
+    ],
+    "wound": [
+        "ferita"
+    ],
+    "writing": [
+        "scrivere"
+    ],
+    "year": [
+        "anno"
+    ],
+    "angle": [
+        "angolo"
+    ],
+    "ant": [
+        "formica"
+    ],
+    "apple": [
+        "mela"
+    ],
+    "arch": [
+        "arco"
+    ],
+    "arm": [
+        "braccio"
+    ],
+    "army": [
+        "esercito"
+    ],
+    "baby": [
+        "bambino"
+    ],
+    "bag": [
+        "borsa"
+    ],
+    "ball": [
+        "sfera"
+    ],
+    "band": [
+        "gruppo musicale"
+    ],
+    "basin": [
+        "bacino"
+    ],
+    "basket": [
+        "cesto"
+    ],
+    "bath": [
+        "bagno"
+    ],
+    "bed": [
+        "letto"
+    ],
+    "bee": [
+        "ape"
+    ],
+    "bell": [
+        "campana"
+    ],
+    "berry": [
+        "bacca"
+    ],
+    "bird": [
+        "uccello"
+    ],
+    "blade": [
+        "lama"
+    ],
+    "board": [
+        "asse"
+    ],
+    "boat": [
+        "barca"
+    ],
+    "bone": [
+        "osso"
+    ],
+    "book": [
+        "prenotare"
+    ],
+    "boot": [
+        "stivale"
+    ],
+    "bottle": [
+        "bottiglia"
+    ],
+    "box": [
+        "scatola"
+    ],
+    "boy": [
+        "ragazzo"
+    ],
+    "brain": [
+        "cervello"
+    ],
+    "brake": [
+        "freno"
+    ],
+    "branch": [
+        "ramo"
+    ],
+    "brick": [
+        "mattone"
+    ],
+    "bridge": [
+        "ponte"
+    ],
+    "brush": [
+        "spazzola"
+    ],
+    "bucket": [
+        "secchio"
+    ],
+    "bulb": [
+        "lampadina"
+    ],
+    "button": [
+        "pulsante"
+    ],
+    "cake": [
+        "torta"
+    ],
+    "camera": [
+        "telecamera"
+    ],
+    "card": [
+        "carta"
+    ],
+    "cart": [
+        "carrello"
+    ],
+    "carriage": [
+        "carrozza"
+    ],
+    "cat": [
+        "gatto"
+    ],
+    "chain": [
+        "catena"
+    ],
+    "cheese": [
+        "formaggio"
+    ],
+    "chest": [
+        "petto"
+    ],
+    "chin": [
+        "mento"
+    ],
+    "church": [
+        "chiesa"
+    ],
+    "circle": [
+        "cerchio"
+    ],
+    "clock": [
+        "orologio"
+    ],
+    "cloud": [
+        "nube"
+    ],
+    "coat": [
+        "cappotto"
+    ],
+    "collar": [
+        "collare"
+    ],
+    "comb": [
+        "pettinare"
+    ],
+    "cord": [
+        "cordone"
+    ],
+    "cow": [
+        "vacca"
+    ],
+    "cup": [
+        "tazza"
+    ],
+    "curtain": [
+        "cortina"
+    ],
+    "cushion": [
+        "cuscino"
+    ],
+    "dog": [
+        "cane"
+    ],
+    "door": [
+        "porta"
+    ],
+    "drain": [
+        "drenare"
+    ],
+    "drawer": [
+        "cassetto"
+    ],
+    "dress": [
+        "vestire"
+    ],
+    "drop": [
+        "gocciolare"
+    ],
+    "ear": [
+        "orecchio"
+    ],
+    "egg": [
+        "uovo"
+    ],
+    "engine": [
+        "motore"
+    ],
+    "eye": [
+        "occhio"
+    ],
+    "face": [
+        "viso"
+    ],
+    "farm": [
+        "fattoria"
+    ],
+    "feather": [
+        "penna"
+    ],
+    "finger": [
+        "dito"
+    ],
+    "fish": [
+        "pesce"
+    ],
+    "flag": [
+        "bandiera"
+    ],
+    "floor": [
+        "pavimento"
+    ],
+    "fly": [
+        "volare"
+    ],
+    "foot": [
+        "piede"
+    ],
+    "fork": [
+        "forchetta"
+    ],
+    "fowl": [
+        "pollame"
+    ],
+    "frame": [
+        "telaio"
+    ],
+    "garden": [
+        "giardino"
+    ],
+    "girl": [
+        "ragazza"
+    ],
+    "glove": [
+        "guanto"
+    ],
+    "goat": [
+        "capra"
+    ],
+    "gun": [
+        "fucile"
+    ],
+    "hair": [
+        "capelli"
+    ],
+    "hammer": [
+        "martello"
+    ],
+    "hand": [
+        "mano"
+    ],
+    "hat": [
+        "cappello"
+    ],
+    "head": [
+        "testa"
+    ],
+    "heart": [
+        "cuore"
+    ],
+    "hook": [
+        "amo"
+    ],
+    "horn": [
+        "tromba"
+    ],
+    "horse": [
+        "cavallo"
+    ],
+    "hospital": [
+        "ospedale"
+    ],
+    "house": [
+        "casa"
+    ],
+    "island": [
+        "isola"
+    ],
+    "jewel": [
+        "gioiello"
+    ],
+    "kettle": [
+        "calderotto"
+    ],
+    "key": [
+        "chiave"
+    ],
+    "knee": [
+        "ginocchio"
+    ],
+    "knife": [
+        "coltello"
+    ],
+    "knot": [
+        "nodo"
+    ],
+    "leaf": [
+        "foglia"
+    ],
+    "leg": [
+        "gamba"
+    ],
+    "library": [
+        "biblioteca"
+    ],
+    "line": [
+        "linea"
+    ],
+    "lip": [
+        "labbro"
+    ],
+    "lock": [
+        "serratura"
+    ],
+    "map": [
+        "carta"
+    ],
+    "match": [
+        "fiammifero"
+    ],
+    "monkey": [
+        "scimmia"
+    ],
+    "moon": [
+        "luna"
+    ],
+    "mouth": [
+        "bocca"
+    ],
+    "muscle": [
+        "muscolo"
+    ],
+    "nail": [
+        "chiodo"
+    ],
+    "neck": [
+        "collo"
+    ],
+    "needle": [
+        "ago"
+    ],
+    "nerve": [
+        "nervo"
+    ],
+    "net": [
+        "rete"
+    ],
+    "nose": [
+        "naso"
+    ],
+    "nut": [
+        "noce"
+    ],
+    "office": [
+        "ufficio"
+    ],
+    "orange": [
+        "arancia"
+    ],
+    "oven": [
+        "forno"
+    ],
+    "parcel": [
+        "pacco"
+    ],
+    "pen": [
+        "penna"
+    ],
+    "pencil": [
+        "matita"
+    ],
+    "picture": [
+        "immagine"
+    ],
+    "pig": [
+        "porco"
+    ],
+    "pin": [
+        "spillo"
+    ],
+    "pipe": [
+        "condotto"
+    ],
+    "plane": [
+        "aereo"
+    ],
+    "plate": [
+        "piatto"
+    ],
+    "plough": [
+        "aratro"
+    ],
+    "pocket": [
+        "tasca"
+    ],
+    "pot": [
+        "pentola"
+    ],
+    "potato": [
+        "patata"
+    ],
+    "prison": [
+        "prigione"
+    ],
+    "pump": [
+        "pompa"
+    ],
+    "rail": [
+        "sbarra"
+    ],
+    "rat": [
+        "topo"
+    ],
+    "receipt": [
+        "ricevuta"
+    ],
+    "ring": [
+        "anello"
+    ],
+    "rod": [
+        "barra"
+    ],
+    "roof": [
+        "tetto"
+    ],
+    "root": [
+        "radice"
+    ],
+    "sail": [
+        "vela"
+    ],
+    "school": [
+        "scuola"
+    ],
+    "scissors": [
+        "forbici"
+    ],
+    "screw": [
+        "vite"
+    ],
+    "seed": [
+        "seme"
+    ],
+    "sheep": [
+        "pecora"
+    ],
+    "shelf": [
+        "asse"
+    ],
+    "ship": [
+        "nave"
+    ],
+    "shirt": [
+        "camicia"
+    ],
+    "shoe": [
+        "scarpa"
+    ],
+    "skin": [
+        "pelle"
+    ],
+    "skirt": [
+        "gonna"
+    ],
+    "snake": [
+        "serpente"
+    ],
+    "sock": [
+        "calzino"
+    ],
+    "spade": [
+        "vanga"
+    ],
+    "sponge": [
+        "spugna"
+    ],
+    "spoon": [
+        "cucchiaio"
+    ],
+    "spring": [
+        "molla"
+    ],
+    "square": [
+        "piazza"
+    ],
+    "stamp": [
+        "francobollo"
+    ],
+    "star": [
+        "stella"
+    ],
+    "station": [
+        "stazione"
+    ],
+    "stem": [
+        "tronco"
+    ],
+    "stick": [
+        "appiccicare"
+    ],
+    "stocking": [
+        "calza"
+    ],
+    "stomach": [
+        "stomaco"
+    ],
+    "store": [
+        "negozio"
+    ],
+    "street": [
+        "via"
+    ],
+    "sun": [
+        "sole"
+    ],
+    "table": [
+        "tavolo"
+    ],
+    "tail": [
+        "coda"
+    ],
+    "thread": [
+        "filo"
+    ],
+    "throat": [
+        "gola"
+    ],
+    "thumb": [
+        "pollice"
+    ],
+    "ticket": [
+        "biglietto"
+    ],
+    "toe": [
+        "dito"
+    ],
+    "tongue": [
+        "lingua"
+    ],
+    "tooth": [
+        "dente"
+    ],
+    "town": [
+        "citt\u00e0"
+    ],
+    "train": [
+        "treno"
+    ],
+    "tray": [
+        "vassoio"
+    ],
+    "tree": [
+        "albero"
+    ],
+    "trousers": [
+        "pantaloni"
+    ],
+    "umbrella": [
+        "ombrello"
+    ],
+    "wall": [
+        "parete"
+    ],
+    "watch": [
+        "orologio"
+    ],
+    "wheel": [
+        "ruota"
+    ],
+    "whip": [
+        "frusta"
+    ],
+    "whistle": [
+        "fischiare"
+    ],
+    "window": [
+        "finestra"
+    ],
+    "wing": [
+        "ala"
+    ],
+    "wire": [
+        "filo"
+    ],
+    "worm": [
+        "verme"
+    ],
+    "able": [
+        "abile"
+    ],
+    "acid": [
+        "acida",
+        "acido"
+    ],
+    "angry": [
+        "irato"
+    ],
+    "automatic": [
+        "automatico"
+    ],
+    "beautiful": [
+        "bella",
+        "carino"
+    ],
+    "black": [
+        "nero"
+    ],
+    "boiling": [
+        "bollente"
+    ],
+    "bright": [
+        "brillante"
+    ],
+    "broken": [
+        "rotte"
+    ],
+    "brown": [
+        "bruno",
+        "marrone"
+    ],
+    "cheap": [
+        "a"
+    ],
+    "chemical": [
+        "chimico"
+    ],
+    "chief": [
+        "capo"
+    ],
+    "clean": [
+        "pulita",
+        "pulito"
+    ],
+    "clear": [
+        "distinto"
+    ],
+    "common": [
+        "comune"
+    ],
+    "complex": [
+        "complesso"
+    ],
+    "conscious": [
+        "cosciente"
+    ],
+    "cut": [
+        "tagliare"
+    ],
+    "deep": [
+        "profondo"
+    ],
+    "dependent": [
+        "dipendente"
+    ],
+    "early": [
+        "di"
+    ],
+    "elastic": [
+        "elastico"
+    ],
+    "electric": [
+        "elettrico"
+    ],
+    "equal": [
+        "eguale"
+    ],
+    "fat": [
+        "grassa",
+        "grasso"
+    ],
+    "fertile": [
+        "fecondo"
+    ],
+    "first": [
+        "prima",
+        "primo"
+    ],
+    "fixed": [
+        "fermo"
+    ],
+    "flat": [
+        "piatta",
+        "piatto"
+    ],
+    "free": [
+        "libero"
+    ],
+    "frequent": [
+        "frequente"
+    ],
+    "full": [
+        "pieno"
+    ],
+    "general": [
+        "generale"
+    ],
+    "good": [
+        "buono"
+    ],
+    "great": [
+        "grande"
+    ],
+    "grey": [
+        "grigio"
+    ],
+    "hanging": [
+        "sospeso"
+    ],
+    "happy": [
+        "felice"
+    ],
+    "hard": [
+        "dura",
+        "duro"
+    ],
+    "healthy": [
+        "sano"
+    ],
+    "high": [
+        "alto"
+    ],
+    "hollow": [
+        "cavo"
+    ],
+    "important": [
+        "importante"
+    ],
+    "kind": [
+        "tipa",
+        "tipo"
+    ],
+    "like": [
+        "come_se"
+    ],
+    "living": [
+        "vita"
+    ],
+    "long": [
+        "lunga",
+        "lungo"
+    ],
+    "male": [
+        "maschio"
+    ],
+    "married": [
+        "sposato"
+    ],
+    "material": [
+        "materiale"
+    ],
+    "medical": [
+        "medico"
+    ],
+    "military": [
+        "militare"
+    ],
+    "natural": [
+        "naturale"
+    ],
+    "necessary": [
+        "necessario"
+    ],
+    "new": [
+        "nuovo"
+    ],
+    "normal": [
+        "normale"
+    ],
+    "open": [
+        "aprire"
+    ],
+    "parallel": [
+        "parallelo"
+    ],
+    "past": [
+        "passato"
+    ],
+    "physical": [
+        "fisico"
+    ],
+    "political": [
+        "politico"
+    ],
+    "poor": [
+        "povera",
+        "povero"
+    ],
+    "possible": [
+        "possibile"
+    ],
+    "present": [
+        "presente"
+    ],
+    "private": [
+        "privado"
+    ],
+    "probable": [
+        "probabile"
+    ],
+    "quick": [
+        "Presto"
+    ],
+    "quiet": [
+        "tranquilla",
+        "tranquillo"
+    ],
+    "ready": [
+        "pronto"
+    ],
+    "red": [
+        "rosso"
+    ],
+    "regular": [
+        "regolare"
+    ],
+    "responsible": [
+        "responsabile"
+    ],
+    "right": [
+        "destra",
+        "destro"
+    ],
+    "round": [
+        "rotondo"
+    ],
+    "same": [
+        "stesso"
+    ],
+    "second": [
+        "secondo"
+    ],
+    "separate": [
+        "separata",
+        "separato"
+    ],
+    "serious": [
+        "serio"
+    ],
+    "sharp": [
+        "acuta",
+        "acuto"
+    ],
+    "smooth": [
+        "liscia",
+        "liscio"
+    ],
+    "sticky": [
+        "appiccicaticcio"
+    ],
+    "stiff": [
+        "rigido"
+    ],
+    "straight": [
+        "destro"
+    ],
+    "strong": [
+        "forte"
+    ],
+    "sudden": [
+        "subitaneo"
+    ],
+    "sweet": [
+        "dolce"
+    ],
+    "tall": [
+        "alto"
+    ],
+    "thick": [
+        "spessa",
+        "spesso"
+    ],
+    "tight": [
+        "stretto"
+    ],
+    "tired": [
+        "stanco"
+    ],
+    "true": [
+        "vero"
+    ],
+    "violent": [
+        "violento"
+    ],
+    "waiting": [
+        "servizio"
+    ],
+    "warm": [
+        "caldo"
+    ],
+    "wet": [
+        "bagnato"
+    ],
+    "wide": [
+        "largo"
+    ],
+    "wise": [
+        "saggio"
+    ],
+    "yellow": [
+        "giallo"
+    ],
+    "young": [
+        "giovane"
+    ],
+    "awake": [
+        "sveglio"
+    ],
+    "bad": [
+        "cattivo"
+    ],
+    "bent": [
+        "curvo"
+    ],
+    "bitter": [
+        "amaro"
+    ],
+    "blue": [
+        "blu"
+    ],
+    "certain": [
+        "certo"
+    ],
+    "cold": [
+        "fredda",
+        "freddo"
+    ],
+    "complete": [
+        "completare"
+    ],
+    "cruel": [
+        "crudele"
+    ],
+    "dark": [
+        "scura",
+        "scuro"
+    ],
+    "dead": [
+        "morto"
+    ],
+    "dear": [
+        "cara",
+        "caro"
+    ],
+    "delicate": [
+        "delicato"
+    ],
+    "different": [
+        "differente"
+    ],
+    "dirty": [
+        "sporco"
+    ],
+    "dry": [
+        "secca",
+        "secco"
+    ],
+    "false": [
+        "falso"
+    ],
+    "feeble": [
+        "flebile"
+    ],
+    "female": [
+        "femminile"
+    ],
+    "foolish": [
+        "stupido"
+    ],
+    "future": [
+        "avvenire"
+    ],
+    "green": [
+        "verde"
+    ],
+    "ill": [
+        "malato"
+    ],
+    "last": [
+        "ultimo"
+    ],
+    "late": [
+        "tardo"
+    ],
+    "left": [
+        "sinistra"
+    ],
+    "loose": [
+        "sciolto"
+    ],
+    "loud": [
+        "ad alta voce"
+    ],
+    "low": [
+        "basso"
+    ],
+    "mixed": [
+        "misto"
+    ],
+    "narrow": [
+        "stretto"
+    ],
+    "old": [
+        "vecchia",
+        "vecchio"
+    ],
+    "opposite": [
+        "contrario"
+    ],
+    "public": [
+        "pubblico"
+    ],
+    "rough": [
+        "ruvido"
+    ],
+    "sad": [
+        "triste"
+    ],
+    "safe": [
+        "sicuro"
+    ],
+    "secret": [
+        "segreto"
+    ],
+    "short": [
+        "corto"
+    ],
+    "shut": [
+        "chiusa",
+        "chiuso"
+    ],
+    "simple": [
+        "semplice"
+    ],
+    "slow": [
+        "lento"
+    ],
+    "small": [
+        "piccolo"
+    ],
+    "soft": [
+        "molle"
+    ],
+    "solid": [
+        "solido"
+    ],
+    "special": [
+        "speciale"
+    ],
+    "strange": [
+        "strano"
+    ],
+    "thin": [
+        "magra",
+        "magro"
+    ],
+    "white": [
+        "bianco"
+    ],
+    "wrong": [
+        "sbagliato"
+    ]
+}

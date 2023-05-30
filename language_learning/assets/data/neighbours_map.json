@@ -1,0 +1,4808 @@
+{
+  "come": {
+    "to": 32,
+    "out": 7,
+    "up": 7,
+    "across": 6,
+    "and": 5,
+    "from": 5,
+    "down": 5,
+    "in": 4,
+    "again": 3,
+    "about": 3,
+    "with": 3,
+    "together": 3,
+    "the": 2,
+    "a": 2,
+    "true": 2,
+    "because": 2,
+    "back": 2,
+    "against": 2,
+    "on": 2,
+    "wise": 1
+  },
+  "get": {
+    "the": 9,
+    "up": 7,
+    "on": 4,
+    "any": 4,
+    "use": 4,
+    "out": 4,
+    "food": 3,
+    "enough": 3,
+    "a": 3,
+    "you": 2,
+    "through": 2,
+    "clear": 2,
+    "about": 2,
+    "to": 2,
+    "all": 1,
+    "together": 1,
+    "word": 1,
+    "mark": 1,
+    "clean": 1,
+    "when": 1
+  },
+  "give": {
+    "out": 8,
+    "you": 7,
+    "a": 6,
+    "to": 5,
+    "back": 3,
+    "up": 3,
+    "the": 3,
+    "off": 3,
+    "any": 2,
+    "sign": 2,
+    "way": 2,
+    "milk": 1,
+    "mass": 1,
+    "general": 1,
+    "in": 1,
+    "effect": 1,
+    "not": 1,
+    "place": 1,
+    "range": 1,
+    "electric": 1
+  },
+  "go": {
+    "on": 16,
+    "to": 10,
+    "out": 8,
+    "back": 6,
+    "and": 6,
+    "from": 5,
+    "through": 5,
+    "down": 4,
+    "in": 4,
+    "by": 3,
+    "up": 2,
+    "off": 2,
+    "wrong": 2,
+    "with": 2,
+    "straight": 2,
+    "after": 2,
+    "well": 2,
+    "before": 1,
+    "there": 1,
+    "for": 1
+  },
+  "keep": {
+    "the": 8,
+    "in": 4,
+    "back": 3,
+    "to": 2,
+    "all": 1,
+    "seat": 1,
+    "look": 1,
+    "where": 1,
+    "healthy": 1,
+    "quite": 1,
+    "open": 1,
+    "off": 1,
+    "on": 1,
+    "out": 1,
+    "a": 1,
+    "under": 1,
+    "up": 1
+  },
+  "let": {
+    "no": 1,
+    "any": 1,
+    "there": 1,
+    "water": 1,
+    "go": 1,
+    "the": 1,
+    "give": 1,
+    "silver": 1
+  },
+  "make": {
+    "a": 17,
+    "use": 17,
+    "the": 5,
+    "clear": 3,
+    "to": 3,
+    "certain": 2,
+    "no": 2,
+    "round": 2,
+    "necessary": 2,
+    "by": 2,
+    "up": 2,
+    "any": 2,
+    "of": 2,
+    "public": 1,
+    "attack": 1,
+    "conscious": 1,
+    "this": 1,
+    "answer": 1,
+    "as": 1,
+    "copy": 1
+  },
+  "put": {
+    "a": 4,
+    "to": 4,
+    "down": 4,
+    "on": 4,
+    "the": 3,
+    "right": 1,
+    "blood": 1,
+    "belief": 1,
+    "any": 1,
+    "fear": 1,
+    "out": 1,
+    "dust": 1,
+    "up": 1
+  },
+  "seem": {
+    "to": 8,
+    "very": 2,
+    "that": 2,
+    "so": 1,
+    "the": 1,
+    "of": 1,
+    "as": 1,
+    "dirty": 1,
+    "a": 1,
+    "almost": 1
+  },
+  "take": {
+    "the": 20,
+    "a": 11,
+    "place": 7,
+    "up": 5,
+    "note": 4,
+    "in": 4,
+    "part": 3,
+    "by": 3,
+    "from": 2,
+    "little": 2,
+    "off": 2,
+    "with": 2,
+    "to": 2,
+    "forward": 1,
+    "fruit": 1,
+    "any": 1,
+    "very": 1,
+    "short": 1,
+    "much": 1,
+    "some": 1
+  },
+  "be": {
+    "a": 49,
+    "the": 45,
+    "not": 33,
+    "in": 27,
+    "able": 25,
+    "of": 20,
+    "to": 19,
+    "no": 18,
+    "very": 16,
+    "so": 14,
+    "that": 13,
+    "quite": 13,
+    "use": 10,
+    "give": 9,
+    "see": 9,
+    "make": 9,
+    "take": 8,
+    "necessary": 7,
+    "still": 7,
+    "as": 7
+  },
+  "do": {
+    "not": 10,
+    "this": 6,
+    "you": 5,
+    "with": 5,
+    "so": 5,
+    "to": 3,
+    "as": 2,
+    "take": 2,
+    "the": 2,
+    "be": 2,
+    "very": 2,
+    "in": 2,
+    "no": 2,
+    "all": 1,
+    "here": 1,
+    "though": 1,
+    "go": 1,
+    "keep": 1,
+    "by": 1,
+    "and": 1
+  },
+  "have": {
+    "be": 32,
+    "a": 28,
+    "the": 24,
+    "to": 17,
+    "no": 15,
+    "come": 8,
+    "take": 6,
+    "get": 6,
+    "see": 5,
+    "say": 5,
+    "make": 5,
+    "you": 5,
+    "in": 5,
+    "do": 5,
+    "go": 4,
+    "give": 4,
+    "and": 3,
+    "only": 3,
+    "need": 3,
+    "any": 3
+  },
+  "say": {
+    "to": 25,
+    "in": 6,
+    "the": 6,
+    "that": 6,
+    "and": 4,
+    "a": 4,
+    "by": 3,
+    "from": 3,
+    "get": 2,
+    "if": 2,
+    "how": 2,
+    "with": 2,
+    "be": 2,
+    "where": 1,
+    "go": 1,
+    "no": 1,
+    "here": 1,
+    "will": 1,
+    "why": 1,
+    "when": 1
+  },
+  "see": {
+    "a": 6,
+    "the": 4,
+    "that": 4,
+    "in": 3,
+    "if": 2,
+    "at": 2,
+    "by": 2,
+    "to": 2,
+    "of": 2,
+    "number": 1,
+    "be": 1,
+    "as": 1,
+    "but": 1,
+    "with": 1,
+    "among": 1,
+    "on": 1,
+    "from": 1,
+    "how": 1,
+    "he": 1,
+    "reason": 1
+  },
+  "send": {
+    "out": 5,
+    "for": 3,
+    "a": 2,
+    "water": 1,
+    "and": 1,
+    "destruction": 1,
+    "on": 1,
+    "up": 1,
+    "the": 1
+  },
+  "may": {
+    "be": 13,
+    "have": 8,
+    "take": 3,
+    "come": 2,
+    "go": 2,
+    "get": 2,
+    "make": 1,
+    "here": 1,
+    "not": 1,
+    "well": 1,
+    "seem": 1
+  },
+  "will": {
+    "be": 23,
+    "have": 10,
+    "do": 6,
+    "come": 5,
+    "take": 3,
+    "not": 3,
+    "see": 3,
+    "make": 2,
+    "say": 2,
+    "you": 2,
+    "get": 2,
+    "give": 2,
+    "keep": 1,
+    "in": 1,
+    "send": 1,
+    "put": 1,
+    "let": 1,
+    "at": 1,
+    "go": 1
+  },
+  "about": {
+    "the": 8,
+    "a": 6,
+    "on": 4,
+    "he": 1,
+    "all": 1,
+    "because": 1,
+    "only": 1,
+    "till": 1,
+    "in": 1,
+    "by": 1,
+    "like": 1
+  },
+  "across": {
+    "a": 3,
+    "the": 1,
+    "this": 1,
+    "after": 1,
+    "and": 1,
+    "any": 1,
+    "form": 1
+  },
+  "after": {
+    "with": 3,
+    "the": 2,
+    "and": 2,
+    "in": 2,
+    "be": 2,
+    "a": 2,
+    "look": 1,
+    "when": 1,
+    "death": 1,
+    "do": 1,
+    "part": 1
+  },
+  "against": {
+    "the": 5,
+    "he": 1,
+    "this": 1,
+    "all": 1
+  },
+  "among": {
+    "the": 4,
+    "other": 1
+  },
+  "at": {
+    "the": 28,
+    "a": 9,
+    "any": 5,
+    "all": 4,
+    "last": 2,
+    "that": 2,
+    "work": 2,
+    "first": 2,
+    "comfort": 1,
+    "copy": 1,
+    "present": 1,
+    "need": 1,
+    "time": 1,
+    "full": 1,
+    "this": 1,
+    "sea": 1,
+    "cover": 1
+  },
+  "before": {
+    "the": 6,
+    "very": 1,
+    "long": 1,
+    "that": 1,
+    "a": 1
+  },
+  "between": {
+    "plant": 3,
+    "the": 2,
+    "some": 1
+  },
+  "by": {
+    "the": 22,
+    "a": 10,
+    "man": 5,
+    "force": 3,
+    "use": 3,
+    "other": 3,
+    "some": 2,
+    "keep": 2,
+    "go": 2,
+    "put": 2,
+    "burn": 2,
+    "certain": 2,
+    "take": 1,
+    "birth": 1,
+    "night": 1,
+    "from": 1,
+    "all": 1,
+    "chance": 1,
+    "in": 1,
+    "you": 1
+  },
+  "down": {
+    "the": 8,
+    "on": 7,
+    "to": 3,
+    "branch": 1,
+    "laugh": 1,
+    "a": 1,
+    "from": 1,
+    "as": 1,
+    "again": 1
+  },
+  "from": {
+    "the": 29,
+    "there": 3,
+    "a": 3,
+    "place": 2,
+    "year": 2,
+    "time": 2,
+    "before": 2,
+    "attack": 1,
+    "fear": 1,
+    "memory": 1,
+    "you": 1,
+    "be": 1,
+    "where": 1,
+    "pull": 1,
+    "measure": 1,
+    "normal": 1,
+    "other": 1,
+    "seed": 1,
+    "salt": 1,
+    "far": 1
+  },
+  "in": {
+    "the": 128,
+    "a": 31,
+    "fact": 10,
+    "this": 8,
+    "addition": 7,
+    "answer": 5,
+    "other": 5,
+    "some": 5,
+    "any": 4,
+    "all": 4,
+    "fear": 4,
+    "connection": 4,
+    "every": 3,
+    "mind": 3,
+    "front": 3,
+    "place": 3,
+    "such": 3,
+    "order": 3,
+    "question": 2,
+    "structure": 2
+  },
+  "off": {
+    "the": 3,
+    "to": 2,
+    "and": 2,
+    "in": 1,
+    "this": 1,
+    "with": 1,
+    "danger": 1,
+    "at": 1,
+    "but": 1
+  },
+  "on": {
+    "the": 62,
+    "land": 21,
+    "a": 8,
+    "in": 5,
+    "this": 4,
+    "every": 2,
+    "new": 2,
+    "with": 2,
+    "be": 2,
+    "plant": 2,
+    "other": 2,
+    "that": 2,
+    "and": 2,
+    "use": 1,
+    "all": 1,
+    "so": 1,
+    "at": 1,
+    "watch": 1,
+    "water": 1,
+    "observation": 1
+  },
+  "over": {
+    "the": 7,
+    "a": 3,
+    "from": 1,
+    "to": 1,
+    "great": 1,
+    "cry": 1
+  },
+  "through": {
+    "the": 10,
+    "a": 2,
+    "all": 1,
+    "any": 1,
+    "and": 1,
+    "open": 1,
+    "by": 1,
+    "have": 1,
+    "run": 1
+  },
+  "to": {
+    "the": 62,
+    "be": 40,
+    "get": 26,
+    "make": 24,
+    "see": 20,
+    "go": 20,
+    "do": 20,
+    "give": 19,
+    "a": 19,
+    "take": 17,
+    "keep": 15,
+    "say": 12,
+    "put": 9,
+    "have": 7,
+    "death": 6,
+    "you": 6,
+    "come": 5,
+    "all": 4,
+    "this": 3,
+    "help": 3
+  },
+  "under": {
+    "the": 3,
+    "act": 1,
+    "observation": 1,
+    "natural": 1,
+    "control": 1
+  },
+  "up": {
+    "and": 8,
+    "to": 6,
+    "in": 6,
+    "the": 5,
+    "of": 2,
+    "out": 2,
+    "against": 1,
+    "till": 1,
+    "great": 1,
+    "near": 1,
+    "simple": 1,
+    "all": 1,
+    "a": 1,
+    "by": 1,
+    "again": 1,
+    "early": 1,
+    "on": 1,
+    "from": 1,
+    "straight": 1,
+    "with": 1
+  },
+  "with": {
+    "the": 22,
+    "a": 15,
+    "this": 3,
+    "some": 2,
+    "much": 2,
+    "sharp": 2,
+    "such": 1,
+    "decision": 1,
+    "red": 1,
+    "science": 1,
+    "religion": 1,
+    "comfort": 1,
+    "government": 1,
+    "water": 1,
+    "head": 1,
+    "plant": 1,
+    "fish": 1,
+    "very": 1,
+    "strong": 1,
+    "oil": 1
+  },
+  "as": {
+    "a": 17,
+    "the": 9,
+    "food": 8,
+    "much": 6,
+    "on": 6,
+    "to": 5,
+    "if": 4,
+    "good": 2,
+    "possible": 2,
+    "for": 2,
+    "that": 2,
+    "may": 2,
+    "with": 2,
+    "you": 2,
+    "new": 1,
+    "polish": 1,
+    "not": 1,
+    "guide": 1,
+    "false": 1,
+    "small": 1
+  },
+  "for": {
+    "the": 36,
+    "a": 9,
+    "this": 9,
+    "example": 6,
+    "all": 5,
+    "there": 5,
+    "food": 4,
+    "purpose": 3,
+    "help": 2,
+    "ever": 2,
+    "give": 2,
+    "growth": 2,
+    "long": 2,
+    "produce": 2,
+    "any": 1,
+    "material": 1,
+    "money": 1,
+    "in": 1,
+    "tomorrow": 1,
+    "attempt": 1
+  },
+  "of": {
+    "the": 170,
+    "a": 33,
+    "all": 20,
+    "plant": 12,
+    "use": 9,
+    "other": 9,
+    "this": 9,
+    "such": 6,
+    "value": 6,
+    "different": 6,
+    "some": 5,
+    "fish": 5,
+    "get": 5,
+    "food": 4,
+    "water": 4,
+    "sea": 4,
+    "keep": 3,
+    "much": 3,
+    "beautiful": 3,
+    "any": 3
+  },
+  "till": {
+    "the": 4,
+    "a": 1,
+    "you": 1,
+    "that": 1
+  },
+  "than": {
+    "the": 5,
+    "this": 2,
+    "a": 2,
+    "in": 2,
+    "because": 1,
+    "mine": 1,
+    "from": 1,
+    "to": 1,
+    "light": 1,
+    "man": 1,
+    "before": 1,
+    "any": 1,
+    "be": 1,
+    "ever": 1,
+    "no": 1
+  },
+  "a": {
+    "great": 30,
+    "very": 17,
+    "little": 12,
+    "good": 11,
+    "number": 10,
+    "time": 8,
+    "man": 7,
+    "second": 7,
+    "new": 6,
+    "small": 6,
+    "strong": 6,
+    "star": 6,
+    "long": 5,
+    "scale": 5,
+    "day": 5,
+    "net": 5,
+    "current": 4,
+    "question": 3,
+    "stop": 3,
+    "house": 3
+  },
+  "the": {
+    "sea": 35,
+    "same": 25,
+    "earth": 21,
+    "other": 21,
+    "young": 17,
+    "end": 16,
+    "land": 16,
+    "water": 15,
+    "way": 14,
+    "number": 13,
+    "house": 11,
+    "power": 11,
+    "air": 10,
+    "time": 9,
+    "first": 9,
+    "fact": 9,
+    "sun": 9,
+    "body": 9,
+    "animal": 9,
+    "island": 9
+  },
+  "all": {
+    "the": 30,
+    "right": 5,
+    "sort": 4,
+    "may": 3,
+    "he": 3,
+    "this": 3,
+    "other": 2,
+    "go": 2,
+    "space": 2,
+    "be": 2,
+    "round": 2,
+    "summer": 1,
+    "arm": 1,
+    "night": 1,
+    "by": 1,
+    "and": 1,
+    "take": 1,
+    "crush": 1,
+    "seem": 1,
+    "run": 1
+  },
+  "any": {
+    "idea": 3,
+    "rate": 3,
+    "other": 2,
+    "mark": 2,
+    "sign": 2,
+    "of": 2,
+    "land": 1,
+    "nation": 1,
+    "man": 1,
+    "new": 1,
+    "care": 1,
+    "sense": 1,
+    "price": 1,
+    "purpose": 1,
+    "direction": 1,
+    "place": 1,
+    "net": 1,
+    "liquid": 1,
+    "change": 1,
+    "animal": 1
+  },
+  "every": {
+    "way": 2,
+    "part": 2,
+    "side": 2,
+    "girl": 1,
+    "even": 1,
+    "time": 1,
+    "person": 1,
+    "day": 1,
+    "animal": 1
+  },
+  "little": {
+    "red": 9,
+    "pig": 7,
+    "fish": 3,
+    "girl": 2,
+    "black": 2,
+    "bag": 2,
+    "note": 1,
+    "house": 1,
+    "town": 1,
+    "room": 1,
+    "silver": 1,
+    "air": 1,
+    "pull": 1,
+    "detail": 1,
+    "curtain": 1,
+    "enough": 1,
+    "for": 1,
+    "weight": 1,
+    "to": 1,
+    "sense": 1
+  },
+  "much": {
+    "the": 6,
+    "as": 3,
+    "out": 2,
+    "value": 2,
+    "to": 2,
+    "trouble": 1,
+    "run": 1,
+    "smoke": 1,
+    "and": 1,
+    "interest": 1,
+    "good": 1,
+    "desire": 1,
+    "in": 1
+  },
+  "no": {
+    "doubt": 4,
+    "power": 3,
+    "fear": 2,
+    "man": 2,
+    "idea": 2,
+    "time": 2,
+    "reason": 2,
+    "use": 2,
+    "chance": 2,
+    "desire": 1,
+    "purpose": 1,
+    "cloud": 1,
+    "move": 1,
+    "attempt": 1,
+    "plant": 1,
+    "limit": 1,
+    "simple": 1,
+    "food": 1,
+    "love": 1,
+    "end": 1
+  },
+  "other": {
+    "hand": 6,
+    "fish": 3,
+    "way": 2,
+    "and": 2,
+    "possible": 1,
+    "in": 1,
+    "up": 1,
+    "word": 1,
+    "son": 1,
+    "end": 1,
+    "work": 1,
+    "body": 1,
+    "government": 1,
+    "side": 1,
+    "plant": 1,
+    "small": 1,
+    "very": 1,
+    "important": 1,
+    "much": 1,
+    "water": 1
+  },
+  "some": {
+    "of": 16,
+    "place": 3,
+    "food": 2,
+    "sort": 2,
+    "heat": 1,
+    "delicate": 1,
+    "pain": 1,
+    "size": 1,
+    "purpose": 1,
+    "have": 1,
+    "very": 1,
+    "cat": 1,
+    "fish": 1,
+    "make": 1,
+    "be": 1,
+    "may": 1,
+    "in": 1,
+    "reason": 1,
+    "angry": 1,
+    "go": 1
+  },
+  "such": {
+    "as": 12,
+    "a": 10,
+    "number": 2,
+    "that": 1,
+    "process": 1,
+    "water": 1,
+    "young": 1
+  },
+  "that": {
+    "the": 22,
+    "all": 8,
+    "be": 7,
+    "of": 7,
+    "he": 5,
+    "on": 3,
+    "in": 3,
+    "there": 3,
+    "nation": 2,
+    "this": 2,
+    "you": 2,
+    "distance": 2,
+    "a": 2,
+    "such": 2,
+    "at": 2,
+    "night": 1,
+    "come": 1,
+    "war": 1,
+    "field": 1,
+    "that": 1
+  },
+  "this": {
+    "be": 17,
+    "way": 7,
+    "time": 4,
+    "reason": 4,
+    "scale": 4,
+    "purpose": 3,
+    "last": 2,
+    "small": 2,
+    "same": 2,
+    "mass": 2,
+    "sort": 2,
+    "land": 1,
+    "place": 1,
+    "point": 1,
+    "nation": 1,
+    "mountain": 1,
+    "little": 1,
+    "winter": 1,
+    "story": 1,
+    "process": 1
+  },
+  "I": {},
+  "he": {
+    "be": 13,
+    "have": 13,
+    "get": 7,
+    "will": 7,
+    "go": 6,
+    "say": 6,
+    "take": 4,
+    "send": 3,
+    "come": 2,
+    "who": 1,
+    "give": 1,
+    "run": 1,
+    "still": 1,
+    "blow": 1,
+    "keep": 1,
+    "do": 1
+  },
+  "you": {
+    "have": 6,
+    "may": 5,
+    "will": 4,
+    "get": 4,
+    "do": 4,
+    "the": 4,
+    "come": 3,
+    "be": 3,
+    "see": 3,
+    "make": 2,
+    "and": 2,
+    "a": 2,
+    "take": 2,
+    "to": 2,
+    "in": 1,
+    "why": 1,
+    "for": 1,
+    "authority": 1,
+    "not": 1,
+    "by": 1
+  },
+  "who": {
+    "be": 17,
+    "have": 5,
+    "get": 4,
+    "go": 3,
+    "come": 2,
+    "work": 1,
+    "offer": 1,
+    "will": 1,
+    "give": 1
+  },
+  "and": {
+    "the": 60,
+    "he": 18,
+    "so": 15,
+    "be": 14,
+    "a": 11,
+    "make": 11,
+    "have": 10,
+    "go": 10,
+    "take": 10,
+    "say": 10,
+    "when": 9,
+    "put": 8,
+    "give": 8,
+    "then": 8,
+    "in": 7,
+    "this": 7,
+    "come": 6,
+    "there": 6,
+    "from": 6,
+    "do": 5
+  },
+  "because": {
+    "the": 4,
+    "all": 2,
+    "of": 2,
+    "war": 1,
+    "this": 1,
+    "not": 1,
+    "such": 1,
+    "wave": 1,
+    "but": 1,
+    "power": 1
+  },
+  "but": {
+    "the": 22,
+    "in": 6,
+    "for": 4,
+    "when": 3,
+    "now": 3,
+    "as": 3,
+    "this": 2,
+    "you": 2,
+    "if": 2,
+    "no": 2,
+    "little": 2,
+    "some": 2,
+    "other": 2,
+    "before": 1,
+    "have": 1,
+    "let": 1,
+    "not": 1,
+    "though": 1,
+    "long": 1,
+    "come": 1
+  },
+  "or": {
+    "other": 4,
+    "any": 2,
+    "from": 2,
+    "light": 2,
+    "even": 2,
+    "the": 2,
+    "in": 2,
+    "animal": 2,
+    "increase": 1,
+    "small": 1,
+    "may": 1,
+    "air": 1,
+    "to": 1,
+    "who": 1,
+    "keep": 1,
+    "say": 1,
+    "with": 1,
+    "not": 1,
+    "seem": 1,
+    "about": 1
+  },
+  "if": {
+    "you": 4,
+    "only": 3,
+    "there": 3,
+    "he": 3,
+    "the": 2,
+    "that": 1,
+    "by": 1,
+    "fish": 1,
+    "this": 1,
+    "any": 1,
+    "with": 1,
+    "in": 1,
+    "not": 1,
+    "some": 1,
+    "silver": 1
+  },
+  "though": {
+    "the": 5,
+    "only": 2,
+    "this": 1,
+    "in": 1,
+    "when": 1,
+    "very": 1,
+    "you": 1,
+    "there": 1
+  },
+  "while": {
+    "the": 1,
+    "respect": 1,
+    "he": 1,
+    "silver": 1
+  },
+  "how": {
+    "do": 2,
+    "please": 1,
+    "long": 1,
+    "to": 1,
+    "development": 1
+  },
+  "when": {
+    "the": 10,
+    "he": 5,
+    "you": 2,
+    "a": 2,
+    "winter": 1,
+    "near": 1,
+    "by": 1,
+    "up": 1,
+    "little": 1,
+    "this": 1,
+    "air": 1,
+    "attack": 1,
+    "transport": 1,
+    "young": 1,
+    "act": 1,
+    "there": 1
+  },
+  "where": {
+    "the": 5,
+    "there": 4,
+    "be": 2,
+    "do": 2,
+    "this": 1,
+    "good": 1
+  },
+  "why": {
+    "be": 1,
+    "then": 1,
+    "star": 1,
+    "all": 1
+  },
+  "again": {
+    "but": 2,
+    "from": 2,
+    "make": 2,
+    "and": 2,
+    "if": 1,
+    "to": 1,
+    "before": 1,
+    "there": 1,
+    "get": 1,
+    "a": 1,
+    "in": 1,
+    "as": 1,
+    "circle": 1
+  },
+  "ever": {
+    "after": 6,
+    "be": 2,
+    "help": 1,
+    "go": 1,
+    "to": 1
+  },
+  "far": {
+    "from": 5,
+    "as": 1,
+    "quite": 1,
+    "back": 1,
+    "off": 1,
+    "in": 1
+  },
+  "forward": {
+    "to": 3,
+    "the": 1,
+    "parallel": 1,
+    "when": 1,
+    "part": 1
+  },
+  "here": {
+    "will": 2,
+    "to": 2,
+    "come": 1,
+    "no": 1
+  },
+  "near": {
+    "the": 3,
+    "a": 2,
+    "to": 1
+  },
+  "now": {
+    "if": 2,
+    "together": 1,
+    "when": 1,
+    "dead": 1,
+    "even": 1,
+    "go": 1,
+    "for": 1,
+    "ill": 1,
+    "you": 1,
+    "keep": 1,
+    "take": 1,
+    "see": 1,
+    "have": 1,
+    "on": 1,
+    "make": 1,
+    "this": 1,
+    "of": 1,
+    "put": 1,
+    "no": 1,
+    "stop": 1
+  },
+  "out": {
+    "of": 24,
+    "and": 5,
+    "from": 4,
+    "to": 3,
+    "as": 2,
+    "a": 2,
+    "loud": 1,
+    "very": 1,
+    "at": 1,
+    "by": 1,
+    "on": 1,
+    "long": 1,
+    "much": 1,
+    "only": 1,
+    "when": 1,
+    "light": 1,
+    "trouble": 1,
+    "he": 1
+  },
+  "still": {
+    "talk": 3,
+    "keep": 2,
+    "before": 1,
+    "not": 1,
+    "far": 1,
+    "in": 1,
+    "a": 1
+  },
+  "then": {
+    "ill": 2,
+    "take": 2,
+    "that": 1,
+    "do": 1,
+    "put": 1,
+    "give": 1,
+    "he": 1,
+    "only": 1,
+    "keep": 1,
+    "push": 1,
+    "come": 1,
+    "light": 1,
+    "able": 1,
+    "a": 1,
+    "well": 1,
+    "the": 1
+  },
+  "there": {
+    "be": 49,
+    "come": 3,
+    "may": 3,
+    "till": 2,
+    "and": 2,
+    "have": 2,
+    "the": 2,
+    "say": 1,
+    "to": 1,
+    "than": 1,
+    "he": 1,
+    "transport": 1,
+    "from": 1,
+    "will": 1
+  },
+  "together": {
+    "in": 4,
+    "be": 2,
+    "all": 2,
+    "before": 2,
+    "on": 1,
+    "at": 1,
+    "for": 1,
+    "with": 1,
+    "of": 1,
+    "to": 1
+  },
+  "well": {
+    "keep": 2,
+    "do": 1,
+    "to": 1,
+    "have": 1,
+    "store": 1,
+    "be": 1,
+    "put": 1,
+    "in": 1,
+    "go": 1,
+    "he": 1,
+    "if": 1,
+    "then": 1
+  },
+  "almost": {
+    "all": 3,
+    "like": 2,
+    "every": 2,
+    "at": 1
+  },
+  "enough": {
+    "to": 3,
+    "of": 2,
+    "for": 1,
+    "reason": 1,
+    "plant": 1,
+    "light": 1,
+    "in": 1,
+    "rain": 1,
+    "the": 1,
+    "knowledge": 1
+  },
+  "even": {
+    "the": 3,
+    "he": 2,
+    "of": 2,
+    "to": 2,
+    "small": 1,
+    "this": 1,
+    "on": 1,
+    "in": 1,
+    "make": 1
+  },
+  "not": {
+    "be": 5,
+    "a": 5,
+    "only": 5,
+    "do": 4,
+    "of": 4,
+    "to": 3,
+    "have": 3,
+    "say": 3,
+    "the": 2,
+    "go": 2,
+    "long": 2,
+    "come": 2,
+    "let": 2,
+    "clear": 2,
+    "in": 2,
+    "put": 2,
+    "end": 1,
+    "see": 1,
+    "hard": 1,
+    "necessary": 1
+  },
+  "only": {
+    "a": 6,
+    "to": 3,
+    "the": 3,
+    "about": 3,
+    "on": 3,
+    "sign": 2,
+    "very": 2,
+    "light": 2,
+    "in": 2,
+    "possible": 2,
+    "of": 2,
+    "do": 2,
+    "see": 1,
+    "get": 1,
+    "you": 1,
+    "ornament": 1,
+    "by": 1,
+    "together": 1,
+    "with": 1,
+    "but": 1
+  },
+  "quite": {
+    "a": 3,
+    "complex": 3,
+    "clear": 2,
+    "different": 2,
+    "so": 1,
+    "like": 1,
+    "all": 1,
+    "natural": 1,
+    "right": 1,
+    "surprise": 1,
+    "happy": 1,
+    "normal": 1,
+    "separate": 1,
+    "near": 1,
+    "short": 1,
+    "certain": 1
+  },
+  "so": {
+    "that": 19,
+    "small": 6,
+    "much": 4,
+    "on": 4,
+    "and": 3,
+    "long": 3,
+    "far": 3,
+    "the": 3,
+    "in": 2,
+    "he": 2,
+    "well": 1,
+    "ill": 1,
+    "stiff": 1,
+    "dear": 1,
+    "smooth": 1,
+    "before": 1,
+    "shock": 1,
+    "quick": 1,
+    "give": 1,
+    "little": 1
+  },
+  "very": {
+    "small": 7,
+    "great": 7,
+    "bad": 4,
+    "much": 4,
+    "complex": 4,
+    "simple": 3,
+    "important": 3,
+    "angry": 2,
+    "please": 2,
+    "little": 2,
+    "interest": 2,
+    "well": 2,
+    "poor": 2,
+    "long": 1,
+    "tight": 1,
+    "dear": 1,
+    "expert": 1,
+    "thin": 1,
+    "short": 1,
+    "feeble": 1
+  },
+  "tomorrow": {
+    "night": 1
+  },
+  "yesterday": {},
+  "north": {
+    "be": 1,
+    "and": 1,
+    "sea": 1
+  },
+  "south": {},
+  "east": {
+    "to": 1,
+    "and": 1,
+    "go": 1,
+    "side": 1
+  },
+  "west": {},
+  "please": {
+    "with": 2,
+    "voice": 1,
+    "picture": 1
+  },
+  "yes": {
+    "yes": 1
+  },
+  "account": {
+    "of": 5
+  },
+  "act": {
+    "on": 2,
+    "for": 1,
+    "as": 1,
+    "be": 1
+  },
+  "addition": {
+    "to": 4,
+    "a": 2,
+    "the": 1
+  },
+  "adjustment": {
+    "of": 1
+  },
+  "advertisement": {},
+  "agreement": {
+    "of": 2
+  },
+  "air": {
+    "as": 3,
+    "of": 2,
+    "power": 1,
+    "and": 1,
+    "go": 1,
+    "in": 1,
+    "be": 1,
+    "move": 1,
+    "like": 1,
+    "again": 1
+  },
+  "amount": {
+    "of": 3,
+    "be": 1,
+    "in": 1,
+    "and": 1
+  },
+  "amusement": {
+    "be": 1
+  },
+  "animal": {
+    "be": 6,
+    "food": 4,
+    "and": 3,
+    "have": 2,
+    "waste": 1,
+    "in": 1,
+    "grip": 1,
+    "make": 1,
+    "name": 1,
+    "with": 1,
+    "or": 1
+  },
+  "answer": {
+    "and": 3,
+    "to": 3,
+    "from": 2,
+    "give": 1,
+    "say": 1,
+    "at": 1,
+    "do": 1,
+    "he": 1
+  },
+  "apparatus": {
+    "for": 2,
+    "such": 2,
+    "there": 1,
+    "with": 1,
+    "limit": 1,
+    "in": 1
+  },
+  "approval": {
+    "by": 1
+  },
+  "argument": {
+    "and": 1
+  },
+  "art": {},
+  "attack": {
+    "other": 2,
+    "from": 1,
+    "on": 1,
+    "by": 1,
+    "there": 1,
+    "of": 1,
+    "and": 1
+  },
+  "attempt": {
+    "to": 5,
+    "at": 3
+  },
+  "attention": {
+    "to": 2,
+    "and": 1
+  },
+  "attraction": {
+    "for": 2
+  },
+  "authority": {
+    "and": 1,
+    "do": 1,
+    "to": 1
+  },
+  "back": {
+    "to": 8,
+    "straight": 2,
+    "by": 2,
+    "there": 2,
+    "down": 1,
+    "again": 1,
+    "with": 1,
+    "not": 1,
+    "or": 1,
+    "against": 1,
+    "in": 1,
+    "the": 1,
+    "of": 1
+  },
+  "balance": {
+    "of": 1
+  },
+  "base": {
+    "on": 4,
+    "for": 1
+  },
+  "behavior": {
+    "but": 1,
+    "of": 1
+  },
+  "belief": {
+    "that": 5,
+    "in": 1,
+    "the": 1
+  },
+  "birth": {
+    "in": 2,
+    "of": 1,
+    "and": 1,
+    "to": 1
+  },
+  "bit": {},
+  "bite": {
+    "of": 5
+  },
+  "blood": {
+    "of": 2,
+    "in": 1
+  },
+  "blow": {
+    "down": 2,
+    "and": 1,
+    "but": 1
+  },
+  "body": {
+    "of": 7,
+    "be": 1,
+    "with": 1,
+    "have": 1,
+    "to": 1,
+    "in": 1,
+    "a": 1,
+    "and": 1
+  },
+  "brass": {},
+  "bread": {
+    "to": 1
+  },
+  "breath": {
+    "of": 1
+  },
+  "brother": {
+    "and": 1
+  },
+  "building": {},
+  "burn": {
+    "in": 3,
+    "be": 2,
+    "and": 1,
+    "feather": 1,
+    "end": 1,
+    "house": 1,
+    "on": 1,
+    "this": 1,
+    "by": 1,
+    "a": 1,
+    "give": 1,
+    "offer": 1,
+    "up": 1
+  },
+  "burst": {},
+  "business": {
+    "of": 2,
+    "to": 2
+  },
+  "butter": {
+    "on": 1
+  },
+  "canvas": {},
+  "care": {
+    "of": 2,
+    "that": 1
+  },
+  "cause": {
+    "for": 2,
+    "of": 1,
+    "by": 1
+  },
+  "chalk": {},
+  "chance": {
+    "of": 8,
+    "for": 1,
+    "and": 1
+  },
+  "change": {
+    "in": 5,
+    "of": 2,
+    "electric": 1,
+    "from": 1,
+    "be": 1,
+    "take": 1
+  },
+  "cloth": {},
+  "coal": {
+    "and": 2,
+    "out": 1,
+    "but": 1
+  },
+  "color": {
+    "of": 3,
+    "be": 3,
+    "and": 1,
+    "produce": 1,
+    "bite": 1,
+    "look": 1,
+    "feather": 1
+  },
+  "comfort": {
+    "because": 1,
+    "and": 1,
+    "on": 1
+  },
+  "committee": {
+    "of": 2,
+    "in": 1,
+    "make": 1
+  },
+  "company": {
+    "of": 1
+  },
+  "comparison": {},
+  "competition": {
+    "to": 1
+  },
+  "condition": {
+    "have": 1,
+    "of": 1,
+    "be": 1,
+    "in": 1,
+    "for": 1
+  },
+  "connection": {
+    "with": 4
+  },
+  "control": {
+    "of": 3
+  },
+  "cook": {},
+  "copper": {},
+  "copy": {
+    "of": 2,
+    "will": 1,
+    "on": 1,
+    "all": 1
+  },
+  "cork": {},
+  "cotton": {},
+  "cough": {},
+  "country": {
+    "by": 1,
+    "part": 1,
+    "cover": 1
+  },
+  "cover": {
+    "with": 5,
+    "of": 1,
+    "be": 1,
+    "in": 1,
+    "by": 1,
+    "up": 1
+  },
+  "crack": {},
+  "credit": {},
+  "crime": {},
+  "crush": {
+    "weight": 1,
+    "up": 1
+  },
+  "cry": {
+    "over": 2,
+    "for": 1,
+    "from": 1,
+    "in": 1,
+    "that": 1,
+    "all": 1,
+    "round": 1,
+    "out": 1
+  },
+  "current": {
+    "of": 4
+  },
+  "curve": {
+    "of": 1
+  },
+  "damage": {
+    "that": 1
+  },
+  "danger": {
+    "of": 3,
+    "to": 2,
+    "by": 1,
+    "and": 1,
+    "even": 1,
+    "from": 1
+  },
+  "daughter": {},
+  "day": {
+    "the": 6,
+    "when": 4,
+    "a": 2,
+    "after": 1,
+    "have": 1,
+    "walk": 1,
+    "give": 1,
+    "off": 1
+  },
+  "death": {
+    "of": 2,
+    "be": 2,
+    "all": 1,
+    "so": 1,
+    "give": 1,
+    "make": 1,
+    "in": 1,
+    "and": 1,
+    "by": 1,
+    "a": 1
+  },
+  "debt": {},
+  "decision": {
+    "that": 1,
+    "of": 1,
+    "to": 1,
+    "have": 1
+  },
+  "degree": {
+    "of": 1,
+    "turn": 1
+  },
+  "design": {
+    "by": 1
+  },
+  "desire": {
+    "to": 3,
+    "for": 2,
+    "direction": 1,
+    "by": 1,
+    "sort": 1,
+    "as": 1,
+    "may": 1
+  },
+  "destruction": {
+    "of": 1,
+    "by": 1,
+    "on": 1
+  },
+  "detail": {
+    "account": 1,
+    "knowledge": 1
+  },
+  "development": {
+    "of": 7,
+    "not": 1,
+    "through": 1,
+    "by": 1
+  },
+  "digestion": {
+    "the": 1,
+    "in": 1,
+    "be": 1
+  },
+  "direction": {
+    "and": 2,
+    "as": 1
+  },
+  "discovery": {
+    "of": 3
+  },
+  "discussion": {
+    "of": 1
+  },
+  "disease": {
+    "cover": 1,
+    "here": 1
+  },
+  "disgust": {},
+  "distance": {
+    "with": 1,
+    "even": 1,
+    "to": 1,
+    "seem": 1,
+    "or": 1,
+    "of": 1,
+    "in": 1
+  },
+  "distribution": {
+    "of": 1
+  },
+  "division": {
+    "of": 2,
+    "between": 1
+  },
+  "doubt": {
+    "in": 1,
+    "if": 1,
+    "about": 1,
+    "base": 1,
+    "this": 1,
+    "that": 1
+  },
+  "drink": {},
+  "driving": {},
+  "dust": {
+    "move": 1,
+    "of": 1,
+    "be": 1,
+    "on": 1
+  },
+  "earth": {
+    "and": 5,
+    "a": 3,
+    "for": 2,
+    "on": 2,
+    "the": 2,
+    "make": 1,
+    "be": 1,
+    "but": 1,
+    "or": 1,
+    "of": 1,
+    "by": 1,
+    "go": 1
+  },
+  "edge": {
+    "of": 3,
+    "and": 1
+  },
+  "education": {
+    "have": 1
+  },
+  "effect": {
+    "of": 3,
+    "be": 1,
+    "to": 1,
+    "this": 1,
+    "on": 1
+  },
+  "end": {
+    "of": 4,
+    "to": 3,
+    "be": 2,
+    "in": 2,
+    "give": 1,
+    "on": 1,
+    "take": 1,
+    "and": 1,
+    "as": 1,
+    "dependent": 1,
+    "the": 1,
+    "do": 1
+  },
+  "error": {
+    "than": 1,
+    "much": 1
+  },
+  "event": {
+    "in": 1,
+    "to": 1
+  },
+  "example": {
+    "of": 4,
+    "the": 2,
+    "go": 1,
+    "take": 1,
+    "there": 1,
+    "how": 1,
+    "to": 1,
+    "he": 1
+  },
+  "exchange": {
+    "of": 1,
+    "between": 1,
+    "be": 1
+  },
+  "existence": {
+    "on": 1,
+    "be": 1,
+    "of": 1,
+    "but": 1
+  },
+  "expansion": {},
+  "experience": {
+    "that": 1
+  },
+  "expert": {
+    "in": 1,
+    "eye": 1
+  },
+  "fact": {
+    "that": 9,
+    "be": 2,
+    "a": 2,
+    "have": 1,
+    "do": 1,
+    "dependent": 1,
+    "such": 1,
+    "there": 1,
+    "like": 1,
+    "hard": 1
+  },
+  "fall": {
+    "to": 1,
+    "of": 1,
+    "over": 1
+  },
+  "family": {
+    "go": 1
+  },
+  "father": {
+    "and": 2,
+    "give": 1,
+    "of": 1,
+    "who": 1
+  },
+  "fear": {
+    "of": 5,
+    "and": 2,
+    "in": 2,
+    "that": 1
+  },
+  "feeling": {},
+  "fiction": {},
+  "field": {
+    "of": 2,
+    "as": 1,
+    "be": 1
+  },
+  "fight": {
+    "in": 2,
+    "have": 2,
+    "for": 1
+  },
+  "fire": {
+    "of": 1
+  },
+  "flame": {},
+  "flight": {},
+  "flower": {
+    "or": 1,
+    "be": 1
+  },
+  "fold": {},
+  "food": {
+    "be": 8,
+    "for": 7,
+    "by": 6,
+    "but": 5,
+    "of": 4,
+    "from": 4,
+    "to": 3,
+    "fish": 3,
+    "and": 2,
+    "the": 2,
+    "in": 2,
+    "while": 1,
+    "question": 1,
+    "wet": 1,
+    "or": 1,
+    "material": 1,
+    "enough": 1,
+    "produce": 1,
+    "as": 1,
+    "there": 1
+  },
+  "force": {
+    "and": 1
+  },
+  "form": {
+    "of": 6,
+    "and": 5,
+    "than": 2,
+    "as": 2,
+    "the": 1,
+    "to": 1,
+    "or": 1,
+    "part": 1,
+    "give": 1,
+    "seem": 1,
+    "for": 1
+  },
+  "friend": {
+    "profit": 1
+  },
+  "front": {
+    "and": 2,
+    "be": 1,
+    "of": 1,
+    "garden": 1
+  },
+  "fruit": {
+    "from": 1
+  },
+  "glass": {
+    "at": 1,
+    "in": 1,
+    "vessel": 1,
+    "or": 1
+  },
+  "gold": {
+    "and": 1,
+    "or": 1,
+    "money": 1
+  },
+  "government": {
+    "in": 1,
+    "of": 1,
+    "to": 1,
+    "take": 1,
+    "have": 1,
+    "business": 1,
+    "office": 1
+  },
+  "grain": {},
+  "grass": {
+    "and": 1
+  },
+  "grip": {
+    "by": 2,
+    "of": 1,
+    "on": 1,
+    "a": 1
+  },
+  "group": {
+    "near": 1,
+    "but": 1,
+    "who": 1,
+    "to": 1,
+    "do": 1,
+    "ready": 1,
+    "be": 1,
+    "have": 1,
+    "of": 1
+  },
+  "growth": {
+    "of": 6,
+    "be": 1,
+    "on": 1,
+    "have": 1,
+    "and": 1,
+    "like": 1
+  },
+  "guide": {
+    "and": 1,
+    "of": 1
+  },
+  "harbor": {},
+  "harmony": {
+    "in": 1
+  },
+  "hate": {},
+  "hearing": {},
+  "heat": {
+    "or": 2,
+    "iron": 1,
+    "and": 1,
+    "this": 1,
+    "than": 1,
+    "be": 1
+  },
+  "help": {
+    "of": 5,
+    "to": 3,
+    "a": 2,
+    "but": 1,
+    "and": 1,
+    "again": 1,
+    "the": 1,
+    "say": 1,
+    "forward": 1,
+    "little": 1,
+    "by": 1,
+    "if": 1,
+    "in": 1
+  },
+  "history": {
+    "be": 1,
+    "and": 1
+  },
+  "hole": {
+    "in": 2,
+    "of": 1,
+    "and": 1
+  },
+  "hope": {
+    "to": 2
+  },
+  "hour": {
+    "or": 1,
+    "before": 1
+  },
+  "humor": {
+    "for": 1,
+    "of": 1,
+    "with": 1
+  },
+  "ice": {},
+  "idea": {
+    "of": 10,
+    "that": 2,
+    "have": 1,
+    "be": 1
+  },
+  "impulse": {
+    "to": 1
+  },
+  "increase": {
+    "love": 1,
+    "by": 1,
+    "if": 1,
+    "the": 1,
+    "in": 1
+  },
+  "industry": {
+    "so": 1,
+    "and": 1
+  },
+  "ink": {},
+  "insect": {},
+  "instrument": {
+    "give": 1
+  },
+  "insurance": {},
+  "interest": {
+    "in": 2,
+    "be": 1,
+    "form": 1,
+    "process": 1
+  },
+  "invention": {},
+  "iron": {
+    "be": 1
+  },
+  "jelly": {},
+  "join": {},
+  "journey": {
+    "for": 1,
+    "through": 1
+  },
+  "judge": {},
+  "jump": {
+    "from": 1,
+    "and": 1
+  },
+  "kick": {},
+  "kiss": {},
+  "knowledge": {
+    "of": 4,
+    "about": 1,
+    "be": 1,
+    "to": 1,
+    "not": 1
+  },
+  "land": {
+    "and": 5,
+    "of": 4,
+    "be": 3,
+    "for": 3,
+    "or": 2,
+    "will": 2,
+    "a": 2,
+    "the": 2,
+    "at": 2,
+    "to": 1,
+    "sea": 1,
+    "if": 1,
+    "all": 1,
+    "this": 1,
+    "some": 1,
+    "there": 1,
+    "than": 1,
+    "that": 1,
+    "against": 1,
+    "on": 1
+  },
+  "language": {
+    "for": 3,
+    "be": 1,
+    "will": 1
+  },
+  "laugh": {
+    "and": 2
+  },
+  "law": {},
+  "lead": {
+    "to": 1
+  },
+  "learning": {},
+  "leather": {},
+  "letter": {
+    "will": 1
+  },
+  "level": {},
+  "lift": {
+    "up": 1,
+    "and": 1
+  },
+  "light": {
+    "be": 3,
+    "for": 2,
+    "have": 2,
+    "take": 1,
+    "give": 1,
+    "produce": 1,
+    "but": 1,
+    "by": 1,
+    "in": 1,
+    "on": 1,
+    "and": 1
+  },
+  "limit": {
+    "to": 2,
+    "and": 1,
+    "space": 1,
+    "make": 1
+  },
+  "linen": {
+    "collar": 1
+  },
+  "liquid": {
+    "round": 1
+  },
+  "list": {},
+  "look": {
+    "at": 7,
+    "of": 3,
+    "on": 2,
+    "and": 2,
+    "for": 1,
+    "round": 1,
+    "trouble": 1,
+    "in": 1,
+    "if": 1,
+    "to": 1,
+    "first": 1,
+    "as": 1,
+    "forward": 1,
+    "over": 1
+  },
+  "loss": {
+    "to": 2,
+    "of": 2
+  },
+  "love": {
+    "with": 1,
+    "of": 1,
+    "so": 1,
+    "for": 1
+  },
+  "machine": {},
+  "man": {
+    "in": 4,
+    "have": 2,
+    "take": 2,
+    "and": 2,
+    "with": 2,
+    "be": 2,
+    "at": 2,
+    "who": 1,
+    "mind": 1,
+    "power": 1,
+    "chin": 1,
+    "for": 1,
+    "selection": 1,
+    "come": 1,
+    "get": 1
+  },
+  "manager": {},
+  "mark": {
+    "on": 3,
+    "of": 2,
+    "by": 1,
+    "out": 1,
+    "that": 1,
+    "the": 1
+  },
+  "market": {
+    "and": 1
+  },
+  "mass": {
+    "of": 5,
+    "be": 1,
+    "on": 1
+  },
+  "meal": {
+    "be": 1,
+    "in": 1,
+    "of": 1,
+    "by": 1
+  },
+  "measure": {
+    "of": 3,
+    "to": 1,
+    "a": 1,
+    "the": 1,
+    "how": 1,
+    "be": 1,
+    "amount": 1,
+    "chain": 1
+  },
+  "meat": {
+    "have": 1
+  },
+  "meeting": {},
+  "memory": {
+    "of": 1,
+    "be": 1
+  },
+  "metal": {},
+  "middle": {},
+  "milk": {
+    "and": 1
+  },
+  "mind": {
+    "for": 2,
+    "about": 1,
+    "and": 1,
+    "that": 1
+  },
+  "mine": {
+    "get": 1,
+    "and": 1
+  },
+  "minute": {
+    "or": 1
+  },
+  "mist": {},
+  "money": {
+    "and": 1,
+    "as": 1
+  },
+  "month": {},
+  "morning ,mother": {},
+  "motion": {
+    "be": 2,
+    "have": 1,
+    "of": 1
+  },
+  "mountain": {
+    "of": 1,
+    "be": 1
+  },
+  "move": {
+    "through": 2,
+    "from": 1,
+    "at": 1,
+    "about": 1,
+    "this": 1,
+    "and": 1
+  },
+  "music": {
+    "bright": 1
+  },
+  "name": {
+    "a": 4,
+    "the": 3,
+    "be": 2,
+    "to": 1,
+    "far": 1,
+    "of": 1,
+    "by": 1,
+    "little": 1,
+    "from": 1
+  },
+  "nation": {
+    "to": 1,
+    "a": 1,
+    "give": 1,
+    "or": 1,
+    "of": 1,
+    "under": 1
+  },
+  "need": {
+    "of": 5,
+    "for": 2,
+    "through": 1,
+    "light": 1,
+    "be": 1,
+    "thin": 1,
+    "so": 1
+  },
+  "news": {
+    "of": 2,
+    "with": 1
+  },
+  "night": {
+    "and": 2,
+    "but": 1
+  },
+  "noise": {
+    "of": 1
+  },
+  "note": {
+    "of": 5,
+    "from": 1,
+    "answer": 1
+  },
+  "number": {
+    "of": 41,
+    "the": 2,
+    "put": 1,
+    "only": 1,
+    "as": 1,
+    "on": 1,
+    "together": 1,
+    "so": 1,
+    "will": 1
+  },
+  "observation": {
+    "of": 2,
+    "station": 1,
+    "to": 1
+  },
+  "offer": {
+    "to": 4,
+    "in": 1,
+    "as": 1,
+    "burn": 1,
+    "for": 1
+  },
+  "oil": {
+    "round": 1,
+    "separate": 1,
+    "or": 1
+  },
+  "operation": {
+    "of": 3,
+    "a": 1,
+    "in": 1
+  },
+  "opinion": {
+    "that": 1
+  },
+  "order": {
+    "that": 2,
+    "be": 2,
+    "in": 1,
+    "he": 1,
+    "by": 1,
+    "all": 1
+  },
+  "organization": {
+    "may": 1
+  },
+  "ornament": {
+    "with": 1
+  },
+  "owner": {
+    "be": 1,
+    "of": 1
+  },
+  "page": {},
+  "pain": {
+    "though": 1,
+    "be": 1
+  },
+  "paint": {},
+  "paper": {
+    "and": 2,
+    "in": 1,
+    "but": 1
+  },
+  "part": {
+    "of": 22,
+    "in": 4,
+    "round": 1,
+    "necessary": 1,
+    "and": 1,
+    "be": 1
+  },
+  "paste": {},
+  "payment": {
+    "make": 1
+  },
+  "peace": {
+    "make": 1,
+    "will": 1
+  },
+  "person": {
+    "or": 1,
+    "with": 1,
+    "of": 1,
+    "have": 1,
+    "train": 1,
+    "name": 1
+  },
+  "place": {
+    "where": 4,
+    "of": 4,
+    "to": 3,
+    "in": 2,
+    "by": 2,
+    "be": 2,
+    "as": 1,
+    "look": 1,
+    "before": 1,
+    "every": 1,
+    "if": 1,
+    "a": 1,
+    "ready": 1,
+    "on": 1,
+    "the": 1,
+    "like": 1
+  },
+  "plant": {
+    "and": 13,
+    "be": 6,
+    "food": 5,
+    "or": 4,
+    "the": 3,
+    "have": 2,
+    "of": 2,
+    "by": 2,
+    "make": 1,
+    "take": 1,
+    "then": 1,
+    "form": 1,
+    "such": 1,
+    "use": 1,
+    "with": 1,
+    "substance": 1,
+    "do": 1,
+    "growth": 1,
+    "need": 1,
+    "on": 1
+  },
+  "play": {
+    "a": 1,
+    "trick": 1,
+    "with": 1
+  },
+  "pleasure": {
+    "when": 1
+  },
+  "point": {
+    "of": 2,
+    "on": 2,
+    "so": 1,
+    "out": 1,
+    "under": 1,
+    "be": 1,
+    "structure": 1,
+    "and": 1
+  },
+  "poison": {
+    "as": 1
+  },
+  "polish": {
+    "as": 1
+  },
+  "porter": {},
+  "position": {
+    "of": 1,
+    "on": 1,
+    "to": 1
+  },
+  "powder": {},
+  "power": {
+    "of": 19,
+    "to": 3,
+    "in": 1,
+    "by": 1,
+    "have": 1,
+    "use": 1,
+    "be": 1
+  },
+  "price": {
+    "and": 1
+  },
+  "print": {},
+  "process": {
+    "be": 2,
+    "and": 1,
+    "the": 1,
+    "go": 1,
+    "of": 1,
+    "to": 1,
+    "again": 1
+  },
+  "produce": {
+    "in": 3,
+    "by": 3,
+    "on": 2,
+    "be": 2,
+    "light": 2,
+    "from": 1,
+    "a": 1,
+    "only": 1,
+    "no": 1,
+    "food": 1,
+    "egg": 1,
+    "at": 1,
+    "horse": 1
+  },
+  "profit": {
+    "by": 1
+  },
+  "property": {
+    "of": 2,
+    "to": 1
+  },
+  "prose": {},
+  "protest": {
+    "that": 1,
+    "as": 1
+  },
+  "pull": {
+    "and": 1,
+    "the": 1,
+    "off": 1,
+    "at": 1,
+    "when": 1,
+    "or": 1
+  },
+  "punishment": {},
+  "purpose": {
+    "of": 4,
+    "so": 1,
+    "and": 1,
+    "in": 1,
+    "as": 1,
+    "be": 1,
+    "a": 1,
+    "make": 1,
+    "need": 1
+  },
+  "push": {
+    "to": 1,
+    "out": 1,
+    "any": 1,
+    "off": 1
+  },
+  "quality": {
+    "and": 1,
+    "high": 1
+  },
+  "question": {
+    "to": 2,
+    "of": 2,
+    "give": 1,
+    "after": 1,
+    "look": 1,
+    "for": 1,
+    "put": 1,
+    "be": 1,
+    "come": 1
+  },
+  "rain": {
+    "be": 1
+  },
+  "range": {
+    "of": 6,
+    "down": 1
+  },
+  "rate": {
+    "when": 1,
+    "and": 1,
+    "the": 1,
+    "though": 1
+  },
+  "ray": {},
+  "reaction": {
+    "between": 1,
+    "to": 1
+  },
+  "reading": {},
+  "reason": {
+    "for": 6,
+    "be": 2,
+    "no": 1,
+    "in": 1,
+    "about": 1,
+    "test": 1,
+    "surprise": 1,
+    "if": 1
+  },
+  "record": {},
+  "regret": {
+    "that": 1
+  },
+  "relation": {
+    "to": 1,
+    "as": 1
+  },
+  "religion": {
+    "and": 1
+  },
+  "representative": {
+    "star": 1,
+    "of": 1
+  },
+  "request": {
+    "for": 2,
+    "to": 2,
+    "straight": 1
+  },
+  "respect": {
+    "any": 1,
+    "he": 1
+  },
+  "rest": {
+    "of": 1,
+    "be": 1
+  },
+  "reward": {},
+  "rhythm": {},
+  "rice": {},
+  "river": {
+    "for": 1
+  },
+  "road": {},
+  "roll": {
+    "about": 1
+  },
+  "room": {
+    "and": 2,
+    "with": 1,
+    "right": 1,
+    "for": 1
+  },
+  "rub": {},
+  "rule": {
+    "of": 1,
+    "over": 1,
+    "the": 1,
+    "from": 1
+  },
+  "run": {
+    "out": 2,
+    "up": 2,
+    "back": 1,
+    "as": 1,
+    "straight": 1,
+    "any": 1
+  },
+  "salt": {
+    "present": 1
+  },
+  "sand": {
+    "and": 1,
+    "on": 1,
+    "after": 1,
+    "take": 1,
+    "in": 1
+  },
+  "scale": {
+    "of": 5,
+    "the": 4,
+    "a": 1,
+    "than": 1
+  },
+  "science": {
+    "be": 3,
+    "a": 1,
+    "or": 1,
+    "to": 1,
+    "on": 1,
+    "but": 1
+  },
+  "sea": {
+    "be": 10,
+    "and": 3,
+    "on": 3,
+    "as": 3,
+    "or": 2,
+    "plant": 1,
+    "the": 1,
+    "science": 1,
+    "will": 1,
+    "at": 1,
+    "get": 1,
+    "for": 1,
+    "give": 1,
+    "this": 1,
+    "come": 1,
+    "where": 1,
+    "only": 1,
+    "send": 1
+  },
+  "seat": {
+    "on": 2,
+    "let": 1,
+    "of": 1,
+    "under": 1,
+    "as": 1,
+    "in": 1
+  },
+  "secretary": {},
+  "selection": {
+    "have": 2,
+    "of": 1,
+    "make": 1
+  },
+  "self": {},
+  "sense": {
+    "and": 1,
+    "of": 1,
+    "to": 1
+  },
+  "servant": {},
+  "sex": {
+    "selection": 1
+  },
+  "shade": {},
+  "shake": {
+    "like": 1
+  },
+  "shame": {},
+  "shock": {
+    "be": 3,
+    "that": 1,
+    "of": 1,
+    "strong": 1
+  },
+  "side": {
+    "of": 5,
+    "and": 5,
+    "cover": 1,
+    "for": 1,
+    "to": 1
+  },
+  "sign": {
+    "of": 7,
+    "for": 1
+  },
+  "silk": {
+    "and": 1,
+    "band": 1,
+    "such": 1
+  },
+  "silver": {
+    "pin": 2,
+    "will": 2,
+    "be": 2,
+    "see": 1,
+    "go": 1,
+    "from": 1,
+    "and": 1
+  },
+  "sister": {
+    "with": 1
+  },
+  "size": {
+    "of": 6,
+    "and": 2,
+    "but": 2,
+    "a": 1,
+    "the": 1,
+    "that": 1
+  },
+  "sky": {},
+  "sleep": {},
+  "slip": {},
+  "slope": {},
+  "smash": {},
+  "smell": {
+    "of": 2,
+    "be": 1,
+    "at": 1
+  },
+  "smile": {
+    "if": 1,
+    "owner": 1,
+    "to": 1
+  },
+  "smoke": {},
+  "sneeze": {},
+  "snow": {},
+  "soap": {},
+  "society": {},
+  "son": {
+    "the": 1,
+    "be": 1,
+    "in": 1
+  },
+  "song": {
+    "after": 1
+  },
+  "sort": {
+    "of": 17,
+    "and": 2,
+    "but": 2,
+    "with": 1,
+    "out": 1,
+    "be": 1,
+    "as": 1
+  },
+  "sound": {
+    "on": 1,
+    "of": 1,
+    "and": 1,
+    "but": 1
+  },
+  "soup": {},
+  "space": {
+    "be": 3,
+    "and": 3,
+    "say": 1,
+    "do": 1
+  },
+  "stage": {
+    "of": 4,
+    "on": 1,
+    "in": 1
+  },
+  "start": {
+    "from": 1,
+    "to": 1,
+    "a": 1
+  },
+  "statement": {
+    "on": 1,
+    "that": 1
+  },
+  "steam": {},
+  "steel": {
+    "box": 1
+  },
+  "step": {
+    "in": 2,
+    "of": 1,
+    "go": 1,
+    "and": 1,
+    "for": 1,
+    "take": 1
+  },
+  "stitch": {},
+  "stone": {
+    "plant": 1,
+    "all": 1,
+    "point": 1
+  },
+  "stop": {
+    "give": 1,
+    "over": 1,
+    "from": 1,
+    "all": 1,
+    "up": 1,
+    "about": 1,
+    "and": 1,
+    "in": 1
+  },
+  "story": {
+    "be": 2,
+    "and": 1
+  },
+  "stretch": {
+    "of": 4,
+    "say": 1,
+    "about": 1
+  },
+  "structure": {
+    "of": 4,
+    "and": 2,
+    "come": 1,
+    "as": 1,
+    "before": 1,
+    "for": 1,
+    "in": 1,
+    "be": 1,
+    "produce": 1,
+    "but": 1,
+    "or": 1,
+    "some": 1
+  },
+  "substance": {
+    "of": 1,
+    "may": 1,
+    "on": 1,
+    "that": 1
+  },
+  "sugar": {},
+  "suggestion": {
+    "will": 1,
+    "for": 1,
+    "be": 1
+  },
+  "summer": {},
+  "support": {
+    "to": 2,
+    "by": 1,
+    "in": 1,
+    "the": 1
+  },
+  "surprise": {
+    "change": 1,
+    "thing": 1,
+    "than": 1,
+    "that": 1,
+    "and": 1
+  },
+  "swim": {
+    "or": 1,
+    "be": 1
+  },
+  "system": {
+    "of": 1,
+    "such": 1,
+    "use": 1,
+    "than": 1,
+    "to": 1,
+    "the": 1
+  },
+  "talk": {
+    "and": 3,
+    "when": 3,
+    "quite": 1,
+    "about": 1,
+    "be": 1,
+    "like": 1,
+    "together": 1,
+    "to": 1
+  },
+  "taste": {
+    "the": 3,
+    "and": 3,
+    "a": 1
+  },
+  "tax": {},
+  "teaching": {},
+  "tendency": {
+    "make": 1
+  },
+  "test": {
+    "of": 3,
+    "if": 1,
+    "that": 1,
+    "on": 1,
+    "for": 1
+  },
+  "theory": {
+    "of": 1,
+    "at": 1,
+    "be": 1
+  },
+  "thing": {
+    "to": 3,
+    "be": 2,
+    "for": 1,
+    "of": 1,
+    "that": 1
+  },
+  "thought": {},
+  "thunder": {},
+  "time": {
+    "there": 7,
+    "the": 7,
+    "to": 3,
+    "with": 2,
+    "for": 1,
+    "be": 1,
+    "off": 1,
+    "play": 1,
+    "now": 1,
+    "say": 1,
+    "or": 1,
+    "in": 1,
+    "that": 1,
+    "give": 1,
+    "increase": 1,
+    "send": 1,
+    "by": 1,
+    "produce": 1,
+    "so": 1,
+    "have": 1
+  },
+  "tin": {},
+  "top": {
+    "of": 2,
+    "floor": 1,
+    "like": 1
+  },
+  "touch": {
+    "all": 1
+  },
+  "trade": {
+    "and": 1,
+    "the": 1,
+    "there": 1
+  },
+  "transport": {
+    "from": 2,
+    "by": 1
+  },
+  "trick": {
+    "by": 1,
+    "on": 1,
+    "that": 1
+  },
+  "trouble": {
+    "and": 1,
+    "about": 1,
+    "say": 1,
+    "by": 1,
+    "sound": 1,
+    "day": 1
+  },
+  "turn": {
+    "over": 2,
+    "from": 2,
+    "under": 1,
+    "at": 1,
+    "have": 1,
+    "let": 1,
+    "round": 1,
+    "against": 1
+  },
+  "twist": {
+    "on": 1
+  },
+  "unit": {
+    "use": 1,
+    "for": 1
+  },
+  "use": {
+    "of": 20,
+    "to": 9,
+    "as": 7,
+    "for": 6,
+    "in": 5,
+    "a": 5,
+    "be": 3,
+    "by": 2,
+    "this": 2,
+    "the": 2,
+    "land": 1,
+    "attempt": 1,
+    "and": 1,
+    "up": 1,
+    "light": 1,
+    "only": 1,
+    "or": 1,
+    "bad": 1
+  },
+  "value": {
+    "to": 5,
+    "of": 2,
+    "when": 1,
+    "if": 1,
+    "for": 1
+  },
+  "verse": {},
+  "vessel": {
+    "through": 1,
+    "in": 1
+  },
+  "view": {
+    "of": 3,
+    "that": 2,
+    "because": 1
+  },
+  "voice": {
+    "agreement": 1,
+    "from": 1,
+    "come": 1
+  },
+  "walk": {
+    "about": 3,
+    "in": 1,
+    "across": 1,
+    "as": 1,
+    "on": 1
+  },
+  "war": {
+    "to": 1,
+    "will": 1,
+    "among": 1
+  },
+  "wash": {},
+  "waste": {
+    "of": 1,
+    "material": 1,
+    "no": 1,
+    "produce": 1,
+    "land": 1
+  },
+  "water": {
+    "be": 3,
+    "through": 3,
+    "in": 1,
+    "so": 1,
+    "have": 1,
+    "enough": 1,
+    "all": 1,
+    "seem": 1,
+    "that": 1,
+    "of": 1,
+    "round": 1,
+    "representative": 1,
+    "between": 1,
+    "where": 1,
+    "thunder": 1,
+    "go": 1,
+    "down": 1,
+    "you": 1,
+    "edge": 1
+  },
+  "wave": {
+    "of": 4,
+    "a": 1,
+    "and": 1,
+    "with": 1,
+    "hair": 1,
+    "come": 1,
+    "in": 1,
+    "but": 1
+  },
+  "wax": {
+    "or": 1
+  },
+  "way": {
+    "of": 7,
+    "to": 6,
+    "and": 5,
+    "as": 4,
+    "through": 3,
+    "in": 2,
+    "right": 1,
+    "that": 1,
+    "be": 1,
+    "from": 1,
+    "condition": 1,
+    "plant": 1,
+    "use": 1,
+    "but": 1
+  },
+  "weather": {
+    "the": 1
+  },
+  "week": {},
+  "weight": {
+    "of": 5,
+    "and": 2,
+    "not": 1,
+    "have": 1,
+    "than": 1,
+    "in": 1,
+    "be": 1
+  },
+  "wind": {
+    "come": 1,
+    "at": 1,
+    "and": 1
+  },
+  "wine": {},
+  "winter": {
+    "come": 1
+  },
+  "woman": {},
+  "wood": {
+    "dust": 1
+  },
+  "wool": {},
+  "word": {
+    "from": 1,
+    "the": 1,
+    "increase": 1,
+    "have": 1,
+    "of": 1,
+    "to": 1,
+    "between": 1
+  },
+  "work": {
+    "of": 5,
+    "hard": 2,
+    "for": 2,
+    "and": 1,
+    "together": 1,
+    "condition": 1,
+    "in": 1,
+    "with": 1,
+    "very": 1,
+    "will": 1,
+    "out": 1,
+    "up": 1,
+    "as": 1,
+    "over": 1,
+    "before": 1,
+    "to": 1
+  },
+  "wound": {},
+  "writing": {},
+  "year": {
+    "to": 2,
+    "and": 1
+  },
+  "angle": {
+    "of": 1
+  },
+  "ant": {
+    "who": 1,
+    "be": 1,
+    "for": 1
+  },
+  "apple": {
+    "in": 1
+  },
+  "arch": {},
+  "arm": {
+    "with": 3,
+    "from": 1,
+    "for": 1,
+    "come": 1,
+    "against": 1
+  },
+  "army": {},
+  "baby": {},
+  "bag": {
+    "of": 1,
+    "with": 1
+  },
+  "ball": {
+    "to": 1,
+    "but": 1,
+    "measure": 1,
+    "will": 1
+  },
+  "band": {
+    "for": 1,
+    "on": 1,
+    "round": 1,
+    "all": 1,
+    "and": 1
+  },
+  "basin": {
+    "of": 1
+  },
+  "basket": {
+    "of": 1
+  },
+  "bath": {
+    "every": 1
+  },
+  "bed": {
+    "and": 4,
+    "of": 2
+  },
+  "bee": {},
+  "bell": {},
+  "berry": {},
+  "bird": {
+    "and": 1,
+    "be": 1,
+    "circle": 1,
+    "up": 1
+  },
+  "blade": {},
+  "board": {},
+  "boat": {
+    "and": 2,
+    "have": 1,
+    "where": 1,
+    "be": 1,
+    "give": 1
+  },
+  "bone": {
+    "part": 1,
+    "and": 1
+  },
+  "book": {
+    "on": 2,
+    "and": 1,
+    "who": 1,
+    "for": 1
+  },
+  "boot": {
+    "and": 1
+  },
+  "bottle": {
+    "of": 1,
+    "be": 1
+  },
+  "box": {
+    "in": 1,
+    "have": 1
+  },
+  "boy": {
+    "name": 1,
+    "who": 1,
+    "cry": 1
+  },
+  "brain": {},
+  "brake": {},
+  "branch": {
+    "have": 1
+  },
+  "brick": {
+    "house": 2
+  },
+  "bridge": {},
+  "brush": {
+    "the": 1
+  },
+  "bucket": {},
+  "bulb": {},
+  "button": {},
+  "cake": {},
+  "camera": {},
+  "card": {},
+  "cart": {},
+  "carriage": {},
+  "cat": {
+    "do": 1
+  },
+  "chain": {
+    "get": 1
+  },
+  "cheese": {},
+  "chest": {},
+  "chin": {},
+  "church": {},
+  "circle": {
+    "and": 2,
+    "the": 1,
+    "make": 1
+  },
+  "clock": {},
+  "cloud": {
+    "of": 3
+  },
+  "coat": {
+    "round": 1
+  },
+  "collar": {
+    "almost": 1,
+    "a": 1
+  },
+  "comb": {},
+  "cord": {
+    "round": 1,
+    "the": 1,
+    "and": 1
+  },
+  "cow": {
+    "for": 2,
+    "stop": 1,
+    "to": 1
+  },
+  "cup": {},
+  "curtain": {
+    "space": 1,
+    "across": 1
+  },
+  "cushion": {},
+  "dog": {},
+  "door": {
+    "and": 1
+  },
+  "drain": {},
+  "drawer": {},
+  "dress": {
+    "be": 3,
+    "ready": 1,
+    "for": 1,
+    "at": 1,
+    "on": 1,
+    "from": 1,
+    "so": 1,
+    "to": 1,
+    "and": 1
+  },
+  "drop": {
+    "from": 1,
+    "of": 1
+  },
+  "ear": {},
+  "egg": {
+    "and": 1,
+    "be": 1,
+    "of": 1,
+    "in": 1,
+    "that": 1
+  },
+  "engine": {},
+  "eye": {
+    "but": 2,
+    "be": 2,
+    "put": 1,
+    "may": 1,
+    "when": 1,
+    "for": 1
+  },
+  "face": {
+    "to": 2,
+    "and": 1,
+    "wave": 1,
+    "at": 1,
+    "be": 1,
+    "with": 1
+  },
+  "farm": {
+    "on": 1
+  },
+  "feather": {
+    "say": 1
+  },
+  "finger": {
+    "on": 1
+  },
+  "fish": {
+    "be": 5,
+    "and": 5,
+    "of": 2,
+    "have": 2,
+    "make": 2,
+    "food": 2,
+    "in": 2,
+    "keep": 1,
+    "go": 1,
+    "use": 1,
+    "only": 1,
+    "get": 1,
+    "than": 1,
+    "plant": 1,
+    "do": 1,
+    "out": 1,
+    "so": 1,
+    "seem": 1,
+    "then": 1,
+    "apparatus": 1
+  },
+  "flag": {},
+  "floor": {
+    "of": 1,
+    "do": 1
+  },
+  "fly": {},
+  "foot": {
+    "and": 1,
+    "of": 1,
+    "or": 1,
+    "on": 1
+  },
+  "fork": {},
+  "fowl": {},
+  "frame": {},
+  "garden": {
+    "door": 1
+  },
+  "girl": {
+    "name": 3,
+    "there": 1,
+    "in": 1,
+    "he": 1
+  },
+  "glove": {
+    "and": 2,
+    "will": 1,
+    "you": 1
+  },
+  "goat": {},
+  "gun": {
+    "and": 1,
+    "will": 1
+  },
+  "hair": {
+    "round": 2,
+    "come": 2,
+    "and": 1,
+    "say": 1,
+    "will": 1,
+    "be": 1,
+    "seem": 1,
+    "a": 1,
+    "on": 1,
+    "he": 1
+  },
+  "hammer": {},
+  "hand": {
+    "and": 4,
+    "be": 4,
+    "only": 2,
+    "over": 1,
+    "so": 1,
+    "together": 1,
+    "to": 1,
+    "book": 1,
+    "almost": 1,
+    "much": 1,
+    "get": 1,
+    "against": 1,
+    "on": 1,
+    "in": 1,
+    "who": 1
+  },
+  "hat": {},
+  "head": {
+    "be": 1,
+    "will": 1,
+    "and": 1,
+    "the": 1,
+    "down": 1
+  },
+  "heart": {
+    "but": 1,
+    "go": 1,
+    "than": 1
+  },
+  "hook": {
+    "on": 1
+  },
+  "horn": {},
+  "horse": {
+    "in": 1,
+    "when": 1,
+    "to": 1,
+    "and": 1
+  },
+  "hospital": {},
+  "house": {
+    "and": 8,
+    "be": 3,
+    "of": 3,
+    "in": 2,
+    "that": 1,
+    "take": 1,
+    "when": 1,
+    "so": 1,
+    "or": 1
+  },
+  "island": {
+    "be": 2,
+    "have": 2,
+    "on": 2,
+    "when": 1,
+    "with": 1,
+    "and": 1,
+    "come": 1
+  },
+  "jewel": {},
+  "kettle": {},
+  "key": {},
+  "knee": {},
+  "knife": {
+    "in": 1
+  },
+  "knot": {},
+  "leaf": {},
+  "leg": {
+    "be": 1
+  },
+  "library": {},
+  "line": {
+    "of": 2,
+    "and": 2,
+    "be": 1,
+    "see": 1
+  },
+  "lip": {},
+  "lock": {},
+  "map": {
+    "of": 1,
+    "to": 1,
+    "though": 1,
+    "about": 1,
+    "in": 1
+  },
+  "match": {},
+  "monkey": {},
+  "moon": {
+    "there": 1
+  },
+  "mouth": {
+    "full": 1,
+    "make": 1,
+    "when": 1,
+    "and": 1,
+    "arm": 1
+  },
+  "muscle": {
+    "straight": 1,
+    "and": 1
+  },
+  "nail": {},
+  "neck": {
+    "on": 1
+  },
+  "needle": {
+    "and": 1
+  },
+  "nerve": {
+    "when": 1
+  },
+  "net": {
+    "of": 2,
+    "or": 1,
+    "with": 1,
+    "get": 1,
+    "when": 1,
+    "by": 1
+  },
+  "nose": {
+    "till": 1
+  },
+  "nut": {},
+  "office": {
+    "and": 2,
+    "will": 1,
+    "through": 1
+  },
+  "orange": {},
+  "oven": {},
+  "parcel": {},
+  "pen": {},
+  "pencil": {},
+  "picture": {
+    "in": 1,
+    "of": 1
+  },
+  "pig": {
+    "make": 3,
+    "in": 1,
+    "so": 1,
+    "have": 1
+  },
+  "pin": {
+    "and": 2,
+    "head": 1
+  },
+  "pipe": {},
+  "plane": {},
+  "plate": {
+    "and": 1
+  },
+  "plough": {
+    "and": 1
+  },
+  "pocket": {},
+  "pot": {
+    "and": 1,
+    "of": 1
+  },
+  "potato": {
+    "produce": 1
+  },
+  "prison": {},
+  "pump": {},
+  "rail": {},
+  "rat": {
+    "on": 1
+  },
+  "receipt": {},
+  "ring": {},
+  "rod": {
+    "over": 1,
+    "like": 1,
+    "be": 1
+  },
+  "roof": {
+    "be": 1,
+    "and": 1
+  },
+  "root": {
+    "in": 1,
+    "go": 1,
+    "out": 1
+  },
+  "sail": {},
+  "school": {},
+  "scissors": {},
+  "screw": {},
+  "seed": {
+    "put": 1
+  },
+  "sheep": {
+    "and": 2
+  },
+  "shelf": {},
+  "ship": {
+    "a": 1,
+    "be": 1,
+    "pull": 1,
+    "will": 1,
+    "against": 1,
+    "by": 1,
+    "and": 1
+  },
+  "shirt": {},
+  "shoe": {
+    "have": 1,
+    "seem": 1
+  },
+  "skin": {
+    "of": 1,
+    "be": 1,
+    "to": 1,
+    "for": 1,
+    "all": 1,
+    "from": 1
+  },
+  "skirt": {},
+  "snake": {},
+  "sock": {},
+  "spade": {},
+  "sponge": {},
+  "spoon": {},
+  "spring": {
+    "in": 1
+  },
+  "square": {},
+  "stamp": {},
+  "star": {
+    "and": 4,
+    "have": 3,
+    "in": 2,
+    "of": 2,
+    "the": 1,
+    "at": 1,
+    "about": 1,
+    "with": 1
+  },
+  "station": {
+    "the": 1
+  },
+  "stem": {
+    "of": 1
+  },
+  "stick": {
+    "or": 1,
+    "house": 1
+  },
+  "stocking": {},
+  "stomach": {
+    "by": 1,
+    "go": 1,
+    "of": 1,
+    "turn": 1
+  },
+  "store": {
+    "for": 1,
+    "of": 1,
+    "with": 1
+  },
+  "street": {
+    "and": 1,
+    "to": 1
+  },
+  "sun": {
+    "be": 3,
+    "before": 1,
+    "but": 1,
+    "weight": 1,
+    "this": 1
+  },
+  "table": {
+    "of": 1
+  },
+  "tail": {
+    "down": 1,
+    "up": 1
+  },
+  "thread": {},
+  "throat": {},
+  "thumb": {},
+  "ticket": {},
+  "toe": {},
+  "tongue": {},
+  "tooth": {},
+  "town": {
+    "name": 1,
+    "opposite": 1
+  },
+  "train": {
+    "in": 1
+  },
+  "tray": {},
+  "tree": {
+    "of": 2,
+    "come": 1,
+    "and": 1,
+    "go": 1,
+    "on": 1
+  },
+  "trousers": {},
+  "umbrella": {},
+  "wall": {
+    "round": 1
+  },
+  "watch": {
+    "over": 1,
+    "the": 1,
+    "in": 1
+  },
+  "wheel": {
+    "give": 1
+  },
+  "whip": {},
+  "whistle": {},
+  "window": {},
+  "wing": {},
+  "wire": {},
+  "worm": {
+    "to": 1,
+    "have": 1,
+    "get": 1,
+    "make": 1
+  },
+  "able": {
+    "to": 27,
+    "long": 1,
+    "like": 1
+  },
+  "acid": {
+    "a": 1
+  },
+  "angry": {
+    "with": 1,
+    "and": 1,
+    "voice": 1,
+    "word": 1
+  },
+  "automatic": {},
+  "beautiful": {
+    "and": 2,
+    "wave": 2,
+    "form": 2,
+    "girl": 1,
+    "say": 1,
+    "for": 1,
+    "little": 1,
+    "color": 1,
+    "line": 1
+  },
+  "black": {
+    "look": 2,
+    "twist": 1,
+    "roll": 1
+  },
+  "boiling": {},
+  "bright": {
+    "light": 1,
+    "or": 1,
+    "green": 1,
+    "and": 1,
+    "look": 1
+  },
+  "broken": {},
+  "brown": {},
+  "cheap": {},
+  "chemical": {
+    "discovery": 1,
+    "salt": 1,
+    "knowledge": 1,
+    "work": 1,
+    "power": 1,
+    "reaction": 1,
+    "sense": 1
+  },
+  "chief": {
+    "plant": 2,
+    "of": 1,
+    "food": 1
+  },
+  "clean": {
+    "new": 1,
+    "and": 1,
+    "get": 1,
+    "sand": 1
+  },
+  "clear": {
+    "that": 8,
+    "by": 3,
+    "to": 2,
+    "in": 1,
+    "account": 1,
+    "blue": 1,
+    "be": 1,
+    "as": 1
+  },
+  "common": {
+    "man": 2,
+    "to": 1,
+    "sort": 1,
+    "sense": 1,
+    "experience": 1,
+    "on": 1,
+    "that": 1
+  },
+  "complex": {
+    "structure": 2,
+    "and": 1,
+    "food": 1,
+    "question": 1,
+    "apparatus": 1
+  },
+  "conscious": {
+    "of": 1
+  },
+  "cut": {
+    "off": 3,
+    "a": 1,
+    "through": 1
+  },
+  "deep": {
+    "water": 1,
+    "among": 1
+  },
+  "dependent": {
+    "on": 10,
+    "be": 2,
+    "for": 1
+  },
+  "early": {
+    "stage": 2,
+    "end": 2,
+    "news": 1,
+    "death": 1,
+    "in": 1
+  },
+  "elastic": {},
+  "electric": {
+    "shock": 3,
+    "ray": 2,
+    "field": 1,
+    "or": 1
+  },
+  "equal": {
+    "to": 1,
+    "measure": 1
+  },
+  "fat": {},
+  "fertile": {},
+  "first": {
+    "bed": 1,
+    "time": 1,
+    "at": 1,
+    "business": 1,
+    "be": 1,
+    "system": 1,
+    "a": 1,
+    "little": 1,
+    "view": 1,
+    "look": 1,
+    "who": 1,
+    "of": 1,
+    "but": 1
+  },
+  "fixed": {},
+  "flat": {
+    "for": 1
+  },
+  "free": {
+    "from": 1,
+    "a": 1,
+    "and": 1,
+    "to": 1
+  },
+  "frequent": {},
+  "full": {
+    "of": 5,
+    "development": 1,
+    "measure": 1,
+    "growth": 1
+  },
+  "general": {
+    "peace": 1,
+    "effect": 1,
+    "theory": 1,
+    "approval": 1,
+    "work": 1,
+    "question": 1,
+    "way": 1,
+    "fact": 1,
+    "color": 1
+  },
+  "good": {
+    "thing": 3,
+    "enough": 2,
+    "as": 2,
+    "time": 2,
+    "taste": 2,
+    "example": 2,
+    "will": 1,
+    "book": 1,
+    "of": 1,
+    "glove": 1,
+    "land": 1,
+    "fish": 1,
+    "size": 1,
+    "use": 1,
+    "reason": 1
+  },
+  "great": {
+    "number": 23,
+    "part": 3,
+    "or": 1,
+    "price": 1,
+    "trouble": 1,
+    "war": 1,
+    "event": 1,
+    "work": 1,
+    "desire": 1,
+    "rate": 1,
+    "use": 1,
+    "discovery": 1,
+    "division": 1,
+    "store": 1,
+    "stretch": 1,
+    "mass": 1,
+    "help": 1,
+    "range": 1,
+    "mouth": 1,
+    "change": 1
+  },
+  "grey": {},
+  "hanging": {},
+  "happy": {
+    "to": 1,
+    "with": 1,
+    "work": 1,
+    "about": 1
+  },
+  "hard": {
+    "to": 5,
+    "work": 4,
+    "for": 3,
+    "all": 1,
+    "look": 1,
+    "go": 1
+  },
+  "healthy": {
+    "and": 1
+  },
+  "high": {
+    "decision": 1
+  },
+  "hollow": {
+    "out": 1
+  },
+  "important": {
+    "to": 3,
+    "thing": 1,
+    "business": 1,
+    "part": 1,
+    "be": 1,
+    "food": 1,
+    "as": 1,
+    "of": 1,
+    "when": 1,
+    "not": 1
+  },
+  "kind": {
+    "to": 1
+  },
+  "like": {
+    "the": 8,
+    "a": 7,
+    "you": 1,
+    "silk": 1,
+    "burn": 1,
+    "that": 1,
+    "rat": 1,
+    "other": 1
+  },
+  "living": {},
+  "long": {
+    "time": 2,
+    "be": 2,
+    "as": 2,
+    "before": 2,
+    "the": 2,
+    "to": 1,
+    "keep": 1,
+    "look": 1,
+    "say": 1,
+    "hard": 1,
+    "and": 1,
+    "have": 1,
+    "way": 1,
+    "but": 1,
+    "sticky": 1,
+    "delicate": 1,
+    "chain": 1,
+    "narrow": 1,
+    "at": 1,
+    "boat": 1
+  },
+  "male": {
+    "bird": 1
+  },
+  "married": {},
+  "material": {
+    "reason": 1,
+    "from": 1,
+    "of": 1,
+    "take": 1,
+    "in": 1,
+    "with": 1
+  },
+  "medical": {},
+  "military": {},
+  "natural": {
+    "condition": 4,
+    "selection": 3,
+    "for": 1,
+    "and": 1,
+    "copy": 1,
+    "balance": 1
+  },
+  "necessary": {
+    "to": 7,
+    "for": 4,
+    "a": 1,
+    "the": 1,
+    "by": 1,
+    "base": 1,
+    "food": 1,
+    "adjustment": 1,
+    "friend": 1
+  },
+  "new": {
+    "nation": 1,
+    "birth": 1,
+    "but": 1,
+    "silk": 1,
+    "glove": 1,
+    "stage": 1,
+    "house": 1,
+    "and": 1
+  },
+  "normal": {
+    "measure": 1,
+    "person": 1,
+    "man": 1,
+    "room": 1
+  },
+  "open": {
+    "street": 1,
+    "cover": 1,
+    "by": 1,
+    "and": 1,
+    "with": 1,
+    "the": 1,
+    "all": 1,
+    "fight": 1
+  },
+  "parallel": {
+    "with": 1
+  },
+  "past": {
+    "be": 1,
+    "time": 1,
+    "have": 1
+  },
+  "physical": {},
+  "political": {},
+  "poor": {
+    "in": 3,
+    "boy": 1,
+    "power": 1
+  },
+  "possible": {
+    "for": 2,
+    "to": 2,
+    "and": 2,
+    "step": 1,
+    "so": 1,
+    "in": 1,
+    "will": 1,
+    "be": 1,
+    "with": 1,
+    "form": 1
+  },
+  "present": {
+    "in": 6,
+    "view": 1,
+    "only": 1,
+    "some": 1,
+    "no": 1,
+    "theory": 1,
+    "need": 1
+  },
+  "private": {},
+  "probable": {},
+  "quick": {
+    "brush": 1,
+    "and": 1,
+    "motion": 1
+  },
+  "quiet": {
+    "of": 2,
+    "as": 2,
+    "or": 1,
+    "sort": 1
+  },
+  "ready": {
+    "for": 3,
+    "to": 2,
+    "and": 2,
+    "while": 1
+  },
+  "red": {
+    "hair": 1
+  },
+  "regular": {},
+  "responsible": {
+    "for": 2
+  },
+  "right": {
+    "to": 2,
+    "and": 2,
+    "as": 1,
+    "under": 1,
+    "for": 1,
+    "say": 1,
+    "again": 1,
+    "out": 1,
+    "thing": 1,
+    "at": 1,
+    "sort": 1
+  },
+  "round": {
+    "the": 6,
+    "about": 2,
+    "a": 1,
+    "stone": 1,
+    "and": 1,
+    "before": 1,
+    "that": 1
+  },
+  "same": {
+    "time": 4,
+    "way": 4,
+    "sort": 3,
+    "person": 1,
+    "idea": 1,
+    "scale": 1,
+    "direction": 1,
+    "weight": 1,
+    "process": 1,
+    "exchange": 1,
+    "reason": 1,
+    "chemical": 1,
+    "relation": 1,
+    "error": 1,
+    "point": 1,
+    "in": 1,
+    "place": 1,
+    "humor": 1
+  },
+  "second": {
+    "language": 5,
+    "bed": 1,
+    "in": 1,
+    "at": 1,
+    "step": 1,
+    "field": 1,
+    "little": 1,
+    "with": 1
+  },
+  "separate": {
+    "from": 2,
+    "sort": 1
+  },
+  "serious": {},
+  "sharp": {
+    "needle": 1,
+    "edge": 1,
+    "look": 1
+  },
+  "smooth": {
+    "and": 1
+  },
+  "sticky": {
+    "substance": 1
+  },
+  "stiff": {
+    "and": 1,
+    "linen": 1,
+    "than": 1
+  },
+  "straight": {
+    "and": 2,
+    "on": 1,
+    "to": 1,
+    "before": 1
+  },
+  "strong": {
+    "enough": 2,
+    "smell": 1,
+    "growth": 1,
+    "glass": 1,
+    "sharp": 1,
+    "acid": 1,
+    "spring": 1,
+    "light": 1,
+    "shock": 1,
+    "pull": 1
+  },
+  "sudden": {
+    "quick": 1
+  },
+  "sweet": {},
+  "tall": {
+    "young": 1,
+    "tree": 1,
+    "point": 1
+  },
+  "thick": {
+    "and": 1,
+    "cover": 1
+  },
+  "tight": {
+    "and": 1,
+    "shoe": 1,
+    "grip": 1
+  },
+  "tired": {},
+  "true": {
+    "out": 1,
+    "he": 1,
+    "size": 1,
+    "test": 1,
+    "of": 1,
+    "position": 1
+  },
+  "violent": {},
+  "waiting": {},
+  "warm": {
+    "coat": 1,
+    "and": 1
+  },
+  "wet": {
+    "with": 1,
+    "land": 1,
+    "earth": 1
+  },
+  "wide": {
+    "though": 1,
+    "stretch": 1
+  },
+  "wise": {},
+  "yellow": {
+    "or": 1,
+    "sand": 1
+  },
+  "young": {
+    "horse": 2,
+    "man": 1,
+    "fish": 1
+  },
+  "awake": {},
+  "bad": {
+    "humor": 2,
+    "and": 1,
+    "behavior": 1,
+    "language": 1,
+    "sign": 1,
+    "egg": 1
+  },
+  "bent": {},
+  "bitter": {},
+  "blue": {
+    "band": 1
+  },
+  "certain": {
+    "of": 3,
+    "common": 1,
+    "that": 1,
+    "where": 1,
+    "to": 1,
+    "shock": 1,
+    "simple": 1,
+    "the": 1,
+    "fish": 1,
+    "wide": 1,
+    "about": 1
+  },
+  "cold": {},
+  "complete": {
+    "harmony": 1,
+    "destruction": 1,
+    "and": 1,
+    "loss": 1,
+    "example": 1,
+    "knowledge": 1
+  },
+  "cruel": {},
+  "dark": {
+    "to": 1
+  },
+  "dead": {
+    "who": 3,
+    "will": 1,
+    "from": 1,
+    "fish": 1,
+    "and": 1
+  },
+  "dear": {
+    "and": 1
+  },
+  "delicate": {
+    "white": 1,
+    "structure": 1,
+    "instrument": 1
+  },
+  "different": {
+    "sort": 4,
+    "in": 2,
+    "test": 1,
+    "size": 1,
+    "structure": 1,
+    "and": 1,
+    "place": 1,
+    "plant": 1,
+    "from": 1,
+    "color": 1
+  },
+  "dirty": {
+    "yellow": 1
+  },
+  "dry": {},
+  "false": {
+    "as": 1
+  },
+  "feeble": {
+    "electric": 1
+  },
+  "female": {
+    "let": 1
+  },
+  "foolish": {
+    "behavior": 1
+  },
+  "future": {
+    "for": 1,
+    "will": 1,
+    "birth": 1
+  },
+  "green": {
+    "color": 3,
+    "not": 1,
+    "plant": 1,
+    "mass": 1
+  },
+  "ill": {
+    "have": 2,
+    "be": 2,
+    "do": 2,
+    "not": 1,
+    "go": 1,
+    "take": 1,
+    "give": 1
+  },
+  "last": {
+    "full": 1,
+    "come": 1,
+    "and": 1,
+    "look": 1,
+    "take": 1,
+    "minute": 1,
+    "of": 1,
+    "meal": 1,
+    "word": 1
+  },
+  "late": {
+    "the": 1
+  },
+  "left": {},
+  "loose": {
+    "and": 1
+  },
+  "loud": {
+    "in": 1
+  },
+  "low": {
+    "land": 1,
+    "angry": 1
+  },
+  "mixed": {},
+  "narrow": {
+    "way": 2,
+    "step": 1,
+    "stretch": 1
+  },
+  "old": {
+    "and": 2,
+    "man": 1
+  },
+  "opposite": {
+    "and": 1,
+    "trick": 1,
+    "direction": 1
+  },
+  "public": {
+    "certain": 1,
+    "event": 1
+  },
+  "rough": {
+    "answer": 1
+  },
+  "sad": {
+    "and": 1
+  },
+  "safe": {
+    "to": 4,
+    "from": 1,
+    "and": 1,
+    "cover": 1
+  },
+  "secret": {
+    "place": 1,
+    "and": 1
+  },
+  "short": {
+    "time": 3,
+    "step": 1,
+    "very": 1,
+    "range": 1,
+    "about": 1
+  },
+  "shut": {
+    "up": 1,
+    "together": 1,
+    "in": 1
+  },
+  "simple": {
+    "chemical": 2,
+    "this": 1,
+    "dress": 1,
+    "theory": 1,
+    "language": 1,
+    "business": 1,
+    "way": 1,
+    "plant": 1,
+    "form": 1
+  },
+  "slow": {
+    "that": 1,
+    "development": 1,
+    "in": 1
+  },
+  "small": {
+    "as": 3,
+    "that": 3,
+    "and": 3,
+    "amount": 2,
+    "part": 2,
+    "plant": 2,
+    "secret": 1,
+    "but": 1,
+    "bite": 1,
+    "end": 1,
+    "food": 1,
+    "hole": 1,
+    "enough": 1,
+    "animal": 1,
+    "change": 1,
+    "in": 1
+  },
+  "soft": {
+    "wave": 1,
+    "by": 1,
+    "on": 1
+  },
+  "solid": {
+    "in": 1,
+    "measure": 1,
+    "food": 1,
+    "substance": 1,
+    "material": 1
+  },
+  "special": {
+    "purpose": 1,
+    "substance": 1,
+    "example": 1,
+    "interest": 1
+  },
+  "strange": {
+    "smell": 2,
+    "and": 1,
+    "thing": 1,
+    "example": 1,
+    "stone": 1
+  },
+  "thin": {
+    "skin": 2,
+    "strong": 1
+  },
+  "white": {
+    "flower": 1,
+    "from": 1,
+    "water": 1
+  },
+  "wrong": {
+    "and": 2,
+    "to": 1,
+    "that": 1,
+    "every": 1,
+    "make": 1
+  }
+}

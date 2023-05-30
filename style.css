@@ -1,0 +1,124 @@
+/* Desktop (Default) */
+body {
+    background-color: #232129;
+    color: white;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.centre-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.project-box-list {
+    width: 32rem;
+    min-height: 90vh;
+    margin-top: 4rem;
+    justify-content: flex-start;
+}
+
+.project-box {
+    width: 100%;
+    aspect-ratio: 1.618;
+    border-radius: 12px;
+    margin-top: 3rem;
+
+    overflow: hidden;
+    cursor: pointer;
+    position: relative;
+}
+
+
+.bg-div {
+    height: 100%;
+    width: 100%;
+
+    background-size:     100% !important;
+    background-repeat:   no-repeat !important;
+    background-position: center center !important; 
+    filter: blur(1.5px);
+
+    transition: 0.2s;
+    pointer-events: none;
+}
+.project-box:hover .bg-div {
+    background-size: 110%  !important;
+    filter: blur(0);
+}
+.project-box:active .bg-div {
+    background-size: 105% !important;
+}
+
+
+.card-title {
+    min-width: 8em;
+    min-height: 2em;
+    max-width: 80%;
+    padding: 8px 16px;
+    
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-align: right;
+    color: rgba(0, 0, 0, 0.56);
+    background-color: #ffffffd0;
+    border-radius: 8px;
+
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+
+    transition: 0.2s;
+}
+.project-box:hover .card-title {
+    bottom: 16px;
+    background-color: #ffffffef;
+    color: rgba(0, 0, 0, 0.75);
+    letter-spacing: 2.125px;
+}
+.project-box:active .card-title { bottom: 18px; }
+
+
+
+/* Mobile */
+.mobile.project-box-list {
+    width: 90%;
+    margin-top: 2rem;
+}
+
+
+@keyframes fade-in {
+    from    {opacity: 0;}
+    to      {opacity: 1}
+}
+@keyframes fade-out {
+    from    {opacity: 1;}
+    to      {opacity: 0}
+}
+
+
+
+
+/* Scrollbar */
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    background-color: #d5d5d547;
+    transition: 0.3s !important;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background-color: #b8b8b880;
+}
